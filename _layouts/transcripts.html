@@ -1,0 +1,26 @@
+---
+layout: default
+---
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {%- if posts.size > 0 -%}
+  <div class="py-5 bg-light">
+    <div class="container">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <ul>
+        {%- for post in posts -%}
+          {%- if post.layout == "transcript" and post.status == 'published' -%}
+            <li class="py-1">
+              <a href="{{ post.permalink }}">{{ post.title }}</a>
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  {%- endif -%}
+</div>

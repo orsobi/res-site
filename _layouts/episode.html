@@ -1,0 +1,87 @@
+{%- include prefix.html -%}
+  <div class="container mt-5 my-5 px-4 py-5">
+    <div class="row g-5 py-3 rounded-3 border shadow-lg">
+      <div class="col-lg-8 p-3 p-lg-5 pt-lg-3">
+        <h1 class="episode-title lh-1">{{ page.title | escape }}</h1>
+        <p class="text-muted">
+          {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+          <time class="dt-published" datetime="{{ page.air-date | date_to_xmlschema }}" itemprop="datePublished">
+            {{ page.date | date: date_format }}
+          </time>
+          <span>•</span>
+          <span>{{ page.duration }}</span>
+        </p>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
+          <div class="col-12">
+            <div class="row">
+              <div class="col py-2">
+                <span class="guest-name">{{ page.name }}</span>
+                <span class="text-muted">{{ page.role }} @ {{ page.company }}</span>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col py-2">
+                <span class="guest-name">{{ page.air-date }} </span>
+                <span class="text-muted">(recorded on {{ page.record-date }})</span>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <iframe class="p-3" title="Listen" width="100%" height="110px"
+                        src="https://embed.acast.com/rethink-everything/{{page.embed-link}}?bgColor=0077b8&font-family=Work%20Sans&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans"
+                        frameBorder="0" ></iframe>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col text-center">
+                <a class="subscribe-link" title="" data-toggle="tooltip"
+                   href="https://itunes.apple.com/{{ site.itunes-show-id }}"
+                   data-original-title="Subscribe in Apple Podcasts">
+                  <img src="/assets/img/players/itunes.svg" alt="iTunes icon">
+                </a>
+                <a class="subscribe-link" title="" data-toggle="tooltip"
+                   href="https://overcast.fm/{{ site.overcast-show-id }}"
+                   data-original-title="Add to Overcast">
+                  <img src="/assets/img/players/overcast.svg" alt="Overcast icon"/>
+                </a>
+                <a class="subscribe-link" title="" data-toggle="tooltip"
+                   href="https://open.spotify.com/show/{{ site.spotify-show-id }}"
+                   data-original-title="Listen on Spotify">
+                  <img src="/assets/img/players/spotify.svg" alt="Spotify icon"/>
+                </a>
+                <a class="subscribe-link" title="" data-toggle="tooltip"
+                   href="https://podfollow.com/{{ site.podfollow-show-id }}"
+                   data-original-title="Follow via Podfollow">
+                  <img src="/assets/img/players/podfollow.png" alt="Spotify icon"/>
+                </a>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col py-2">
+                <span class="guest-name">Show Notes</span>
+                <div class="py-3">
+                  {{ content }}
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col py-2">
+                <span class="guest-name">Transcript</span>
+                <div class="py-3">
+                  {% if page.transcript %}
+                    <a href="{{ page.transcript }}" alt="Show transcript">Transcript</a>
+                  {% else %}
+                    <span class="text-muted">Sorry, no transcript available :(</span>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col p-3 p-lg-4 pt-lg-1">
+        <img src="/assets/img/guests/{{ page.img }}" class="img-fluid img-thumbnail mx-auto d-block shadow-lg" alt="{{ page.alt }}" loading="lazy">
+      </div>
+    </div>
+  </div>
+{%- include footer.html -%}

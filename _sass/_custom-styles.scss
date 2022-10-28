@@ -1,0 +1,155 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  line-height: 1.2;
+}
+
+.rethink-navbar,
+.navbar {
+  background-color: $secondary;
+  text-transform: uppercase;
+  min-height: 100px;
+  color: #ffffff;
+}
+
+.nav-link,
+.navbar-brand {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: $primary;
+}
+
+.page-heading {
+  font-size: 3em;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: $primary;
+}
+
+.episode-link {
+  color: $secondary;
+}
+
+.guest-name {
+  color: $primary;
+}
+
+.guest-image {
+  max-width: 200px;
+  width: 100%;
+}
+
+.guest-image-disabled {
+  max-width: 200px;
+  width: 100%;
+  filter: grayscale(100%) blur(1px);
+}
+
+.episode-title {
+  color: $secondary;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.episode-title-card {
+  color: $secondary;
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.episode-title-card-muted {
+  color: #B8BDC1;
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.guest-name-card {
+  color: $primary;
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 0.25em;
+}
+
+.guest-name-card-muted {
+  color: #B8BDC1;
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 0.25em;
+}
+
+.guest-role-card {
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #888888;
+  margin-bottom: 1em;
+}
+
+.guest-role-card-muted {
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #B8BDC1;
+  margin-bottom: 1em;
+}
+
+.duration-date-muted {
+  color: #B8BDC1;
+}
+
+.card-divider {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding: 0;
+  max-width: 100%;
+  border-top: solid 2px;
+  border-color: #cccccc;
+}
+
+p.show-notes {
+  line-height: 1.5;
+}
+
+.footer {
+  background-color: $primary;
+}
+
+.footer-text {
+  font-size: 0.8em;
+  color: #ffffff;
+}
+
+.footer-text a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+h2 {
+  font-size: 1.2em;
+  color: $secondary;
+  text-transform: uppercase;
+  margin-top: 1em;
+}
+
+.description-text {
+  font-weight: normal;
+  color: #eeeeee;
+  font-size: 0.3em;
+}
+
+.site-title {
+  font-weight: bold;
+}
+
+.subscribe-link {
+  text-decoration: none;
+}
+
+.subscribe-link img {
+  height:34px
+}
