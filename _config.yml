@@ -12,10 +12,11 @@ social_links:
   twitter: RTEverythingPod
 future: true
 date_format: "%B %d, %Y"
-acast-show-id: rethink-everything
-itunes-show-id: 1652090407
+acast-show-name: rethink-everything
+acast-show-id: 63440d1a71ca7a0012e0f3d1
+itunes-show-id: rethink-everything/id1652090407
 overcast-show-id: p4012515-3NrjbG
 spotify-show-id: 4UACxKSbtgRbSg5KfFy621
-podfollow-show-id:
+podfollow-show-id: rethink-everything
 plausible-domain: rethinkeverything.show
 plausible-src: https://plausible.io/js/plausible.js
