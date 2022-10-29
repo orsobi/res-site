@@ -13,10 +13,9 @@ social_links:
 future: true
 date_format: "%B %d, %Y"
 acast-show-id: rethink-everything
-itunes-show-id:
-overcast-show-id:
-spotify-show-id:
+itunes-show-id: 1652090407
+overcast-show-id: p4012515-3NrjbG
+spotify-show-id: 4UACxKSbtgRbSg5KfFy621
 podfollow-show-id:
 plausible-domain: rethinkeverything.show
 plausible-src: https://plausible.io/js/plausible.js
-#plausible-src: https://plausible.io/js/script.local.js

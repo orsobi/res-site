@@ -3,8 +3,8 @@ layout: transcript
 permalink: /transcripts/ep-0-introducing-rethink-everything.html
 title: Trailer
 duration: 1 min
-date: 2022-10-31
-status: preview
+date: 2022-10-29
+status: published
 ---
 
 **Rhyd**: Hi and welcome to this very short introduction to the Rethink Everything podcast launching this Wednesday.
