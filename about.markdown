@@ -19,6 +19,7 @@ more about their life, their career and that moment that made them rethink every
 Rhyd is a consultant in the IT and software industry currently helping organisations rethink how they deliver value to 
 their customers.
 
+{:.show-notes}
 Rhyd is intrigued by the stories of how people work and enjoy life (irrespective of their industry or experience) and 
 how they use those significant events to rethink their approach to both. He is also passionate about music, technology 
 and interested in helping others produce their best work.
