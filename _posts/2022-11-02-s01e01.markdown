@@ -1,0 +1,58 @@
+---
+layout: episode
+date: 2022-11-02
+img: ep-1-leda-glyptis.jpg
+alt: Leda Glyptis
+transcript: /transcripts/ep-1-leda-glyptis-bring-your-whole-self.html
+status: preview
+episode-id: s01e01
+permalink: /podcast/ep-1-leda-glyptis-bring-your-whole-self.html
+series-number: 1
+
+title: Ep1 — Bring Your Whole Self
+name: Leda Glyptis
+role: Chief Client Officer
+company: 10x Banking
+
+air-date: November 2, 2022
+record-date: September 12, 2022
+duration: 24 mins
+
+twitter: LedaGlyptis
+linkedin: todo
+site: www.10xbanking.com
+
+embed-link: TODO
+
+keywords:
+- baas
+- bank
+- banker
+- business
+- career
+- company
+- corporate
+- customer
+- emotional
+- fintech
+- industry
+- interview
+- job
+- life
+- people
+- podcast
+- product
+- technology
+- write
+
+---
+
+{:.show-notes}
+Rhyd talks to Leda about her career in fintech, myths about banking, the 2008 financial crisis and how advice from her boss made her realise that she could be herself at work. Leda's new book "[Bankers Like Us - Dispatches from an Industry in Transition](https://www.routledge.com/Bankers-Like-Us-Dispatches-from-an-Industry-in-Transition/Glyptis/p/book/9781032202037#)" arrives February 2023.
+
+Links:
+
+* [Leda on Twitter](https://twitter.com/LedaGlyptis)
+* [Leda's forthcoming book](https://www.routledge.com/Bankers-Like-Us-Dispatches-from-an-Industry-in-Transition/Glyptis/p/book/9781032202037#)
+* [10x Banking](https://www.10xbanking.com)
+* [Leda's column at FintechFutures](https://www.fintechfutures.com/content-hub/ledawrites-food-for-thought/)

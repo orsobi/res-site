@@ -1,0 +1,144 @@
+---
+layout: transcript
+permalink: /transcripts/ep-1-leda-glyptis-bring-your-whole-self.html
+title: Ep1 — Bring Your Whole Self
+duration: 22 min
+date: 2022-11-02
+status: preview
+---
+
+**Rhyd:** In today's episode, I'm talking to Leda Glyptis. She's the chief client officer at 10 X banking, a cloud native banking product company based in the UK. Leda, thanks for joining me today.
+
+**Leda:** Thank you for having me. It's good to be here.
+
+**Rhyd:** Good to speak to you. First off Leda, what are you rethinking about at the moment?
+
+**Leda:** Well, it's my first day back from holiday. So as you can imagine, I am rethinking two things. One is completely an existing work life balance in our industry in particular. And secondly, I managed go holiday, not pack my laptop, which was not intentional, but it had some interesting side effects and I have been reflecting on how much of what we do is an unintentional and unplanned at a, a pretty large systemic level, you know, from governments to big entities. So much of it is making due with something unplanned or unforeseen.
+
+**Rhyd:** How was your holiday?
+
+**Leda:** It I was so nice, but not, not long enough. I think anyone and everyone who had a meeting with me first thing this morning was probably like, Ooh, she got outta the wrong side of her bed.
+
+**Rhyd:** You've worked for many years in banking, especially banking technology. I think given that everyone listening has probably got a bank account, uses a bank. I'm interested to know if there's a common myth about the industry that people might not realize.
+
+**Leda:** Oh God. So many. I think that the two most common myths of people who, as you say are consumers of banking services, but not bankers themselves
+
+**Leda:** The two most common myths are one that bankers are these fat cats, very well paid, capitalist overlords. The reality is the vast majority of people in banks and the vast majority of people you would interact with are absolutely not that: quite a few of them will be on a basic salary, not particularly well managed well treated, not particularly well remunerated, not particularly well informed. So as a customer facing into a bank, you're not actually facing into a capitalist behemoth. You're facing into someone who gets paid the same as if they were in a bookshop or at Tesco's, and is probably informed as much. The flip side is sort of connected and, and a little less wholesome. So as a consumer, you always assume there's a good reason why certain things can't work. You assume there's a good reason why you can't adjust your mortgage repayments. There's a good reason why you can't set up a non Sterling payment on the mobile app. There's a good reason why you have to go into the branch where you have to make a phone call rather than do something digitally. And the answer is yes, there is a good reason: under investment in technology. There is no reason beyond. The banks own processes and antiquated systems. And you and I have worked on the uplift side of the fence for a long time, but the reality is very few consumers are beginning to feel that impact, particularly in high street banks.
+
+**Leda:** And you still, I see it in friends. I see in my family, you still get that sense of, well, there must be a reason and the answer, well there is, but it's not a great.
+
+**Rhyd:** I fully see that and understand that I remember working early in my career for the BBC and then in other media companies, and then getting offered a job in finance/ banking thinking, oh, this is gonna be serious now. They'll know what they're doing. And I remember getting there thinking, oh my God, they're winging it as much as everyone else is! 
+
+**Leda:** Yep. 
+
+**Rhyd:** Which is a bit of an eye opener.
+
+**Leda:** I remember being in a bank early on in my career. But not so early that I didn't feel stupid for asking a question. And there were two teams. I worked in a, a revenue retention team. So we did process re-engineering when there were challenges with customers and two teams were talking about CLOs and CDOs . And I, I was desperately hoping I would work it out from the context what do you think those things were, but I didn't, and, and the work was coming my way. And I like guys, I'm really sorry, and I'm gonna sound dumb here, you know, you're dying inside, but what's the difference between a CLO and CDO? So what are they? Turns out, one is a collateralised debt obligation, the other is a collateralised loan obligation. Actually really, really similar, just either side of the Atlantic, they have slightly different behaviours, but there were a lot of people in the room going, ah, and you're thinking, oh no, how much of this is going on and of course the answer is a lot we know that now,
+
+**Rhyd:** Yeah. Was that,
+
+**Leda:** it's terrifying when you stop and think about it,
+
+**Rhyd:** was that pre 2008 financial crisis?
+
+**Leda:** it was roundabout then.
+
+**Rhyd:** Yeah. yeah, it
+
+**Leda:** Explains a lot,
+
+**Rhyd:** explains a lot. Yeah. 
+
+**Rhyd:** So when I'm speaking to people on the podcast, the thing that I'm really interested in is finding out what event in your life or your career made you pause for a moment and, and perhaps rethink everything that you were doing.
+
+**Rhyd:** Do you have something that we can discuss?
+
+**Leda:** Yeah. I've I've had, um, I've had a couple. One was a very positive, uplifting personal event. The other less so. I would say from a, from a personal perspective and career perspective, I, I do remember I had a boss, uh, BNY Mellon, who said to me once, you know, you should, you should bring your whole self to work. And it sounds like such a cliche. And I, yeah, we all say that, you know, I was very, um, hear that now, but I was very serious, very sort of measured and cautious in what I would say.
+
+**Rhyd:** Yeah, don't recognize that.
+
+**Leda:** yeah, exactly. Extremely, uh, a good, good student head down do the work. And, uh, and he did say to me, you know, bring your whole self to work. And then over I drinks one evening with the team, he sort of started a less structured environment, nudging me and I was thinking, you know what my whole self is quite outrageous, I'm very outspoken I'm very impatient. He's like, &quot;oh, she, she sounds cool. Can I meet her?&quot; And he meant it. And. For me, um, going through that transition of, of learning, how to find my sea legs in a corporate environment and have absolute authenticity, what I say and do without self censoring was absolutely a revelation that you can actually do all of that. And not only not lose your job, but actually build a career on the back of it. That was on a personal level, an absolute revelation. 
+
+**Leda:** The second pivotal moment, that kinda coloured, but where I was going was. The realization that the belief that the people higher up than you had a full picture, a plan, a sense of direction. They knew things you didn't, the realization that actually, that wasn't true. And so much of what was going on was accidental. So much of what was going on was people saying &quot;I don't know&quot;, and, and sort of realizing that there are no sacred cows. There are a lot of people who will say no, but there is no Oracle out there. So you might as well get on with it and see, see where you get to.
+
+**Rhyd:** So that is interesting. How long ago was it when your boss at BNY told you to bring your own self? Was that towards the start of your career midway through?
+
+**Leda:** I did a PhD. I, I was in academia for a while and. I had sort of worked out how that industry worked. And when I switched to a corporate career, I was kind of halfway through another career and trying to work out what applies and what doesn't apply was made for an interesting transition. I'd say this happened about three, four years into my banking career, which was just sort of eight, nine years into my working life. So early enough to make an impact, but not so early that you might think it's normal.
+
+**Rhyd:** Yeah, that makes sense. So, had that not happened, do you think you'd have of stayed relatively under the radar? No. Under the radar in terms of jobs and, and then sort of taking the steps you
+
+**Leda:** I think, I think I would've left the industry,
+
+**Rhyd:** Ah, okay. Why?
+
+**Leda:** Because we work- and I see all of us in this industry. It it's a particularly brutal industry in terms of work life balance. In terms of the intensity, the politics I've never worked in a company that had no politics. I dunno how it manages to always creep in.
+
+**Rhyd:** Yeah
+
+**Leda:** The the hours, like the badge of honor of people calling you on Christmas day, because it can't keep, um, satisfying their own idea of what its to be a successful banker. And all of that. I don't think I would survived the nonsense pressures and the real pressures if I couldn't be very outspoken about what is real and what isn't, and, and what I believe in, uh, and carrying that sort of weight of self censorship, which adds exhaustion to an already tough job. So I suspect that had I not had that liberating effect of saying, what the hell is that? Um, I would've probably left industry for something where I can, I can be as hardworking as committed, but a little bit more free to say that's nonsense. 
+
+**Rhyd:** Have you ever had to give this sort of similar advice to someone who's up and coming?
+
+**Leda:** Yeah, I have, uh, less, um, less in giving that advice. Cause the industry has changed quite a lot in the last 15 years. So people are much more relaxed and authentic at work, but, um, the more guarantee that I will, I will back them when. When being authentic and truthful leads to certain awkward or difficult conversations, like calling something out, someone out on a lie, or calling someone out on a, on a promise, not kept where, you know, people very regularly try to pretend like we never talked about something.
+
+**Leda:** Nobody, nobody challenges you, you, you will walk on. Um, so in the change of our industry has been less about encouraging people to relax and lean in and more about saying just know you will have air cover when you do it.
+
+**Rhyd:** You're a well respected figure in the FinTech industry. So based on your work, you've got a sort of a varied career. You also write at FinTech features under the LedaWrites hashtag. How did you get started? You know, you mentioned you were in academia, how did you do the switch then to, to banking?
+
+**Leda:** The switch happened entirely accidentally while I was finishing my PhD. And while I was in that final year of, of writing up, which is absolutely terrible for your mental health cause you're writing and you're like, you're thinking you're not saying enough and you don't know enough. It's it's a terrible, terrible, uh, can I swear on the podcast?
+
+**Leda:** It's a terrible mind fuck. It's a terrible mind fuck. Uh, while I was going through that, like I have to start from scratch everyone, finishing a PhD goes through this fact. There's a very, very funny comic called piled higher and deeper about PhD students and, and it's, you're like, ah, that's me. So while I was going through that I had three deaths in my family, pretty in, in a very short period of time.
+
+**Leda:** My Aunt, and both my grandparents passed away in about three months and grief is not a good companion when you're trying to write, when you're trying to concentrate. So I missed my deadline, which meant I ran out of money. I ran outta of scholarship money. So I had to find a job. So I started applying for jobs and I ended up in a corporate role and I will confess, I had not researched it very well, even though all I did was research.
+
+**Leda:** This is not my finest hour, but I ended up landing the role, starting this job and going okay, this is not what I thought it was, but I ended up working in this company that did a lot of security work in war zones, including physical security, but also non weapons, defence technology and although I ended up in their corporate affairs division because I had a PhD in politics and all of that. I started working in, in some of their MNA staff, uh, and investments in platforms. And I was like, OK, guns not great with. The corporate environment. Um, not sure it's for me, but I'm enjoying like this, the things I'm learning about the financial instruments and how a deal is structured, but particularly how technology writ large works.
+
+**Leda:** And of course, think about 20 years ago, defense was really the first place where we saw data being leveraged in a really meaningful way for, you know, Naval security. And before I got myself properly into it. I managed to finish &amp; defend my PhD, and I had this moment of, I don't like this industry should I go back to academia couple of buddies from university were like we have this financial software company and they were like, we don't like people and things and you like people and things. Do you wanna join us and talk to people while we write software? And, and I did, I did. And I was like how hard can this be? And I joined them and it was four of us all buddies from university: two, identical twins and myself and my best buddy.
+
+**Leda:** It was. I don't know how anyone took it seriously, but they did. And we landed some customers and we did some great work and I was FinTech before FinTech and, and I ended up doing a lot of work with Deutschebank at the time. And then I ended up joining BNY Mellon, who was one of our customers, on a permanent basis . But my entry into Fintech is entirely accidental and a little bit outrageous. Then you go to events and people go who cares about planning? Talk to us about the secret of your success! Oh no.
+
+**Rhyd:** So complete accidental, but fruitful.
+
+**Leda:** I've enjoyed it. I've um, yeah, I couldn't tell you that I could trace the exact steps and moments that actually led me to where I am, but it's one of those. Have you seen slumdog millionaire where everything has ever done kind of becomes useful along the way? I've definitely felt that in, in my career.
+
+**Rhyd:** What's the biggest upheaval you've seen in that time?.
+
+**Leda:** I would say the biggest upheaval I have seen has been internal. You referenced earlier the 2008 crisis. I remember watching people come out of the Lehman building with their boxes. I remember Bear Sterns settling delayed interest claim. They had with us to the tune of about five, 6,000 pounds and was like, why they paying this now? And then going outta business. And I'm getting in the lift, at one Canada square and Bear Sterns didn't appear in their numbering anymore. Uh, and then, you know, like can air seeing people coming outta Lehman? Um, I remember. I was at a dinner party. And a couple of the guys who used to work on Memorial were like, we can't come in. There will be some big news tomorrow. So I think there was an element of the 2008 crisis, really teaching banking executives that a lot of the people were taken for granted, including their career stability were not there anymore. then the second big realization is that when the digital started happening, there was a firm belief or hope, depending on how charitable you feel that it was going be contained to user experience on the blast stuff. And the realization that it's actually trickles all the way down and changes everything from pricing and the way humans behave to your infrastructure to your products and that has caused a massive upheaval inside banks in terms of the realization of they don't have the right talent, they don't have the right systems. None of that has had a positive impact really on, on customers yet. But I do think that it it's coming out in the wash before long.
+
+**Rhyd:** So based on that would you have any advice for anyone who wanted to get started in FinTech today?
+
+**Leda:** I'd say a couple of things. I'd say, first of all, that fin we who grew up in FinTech, know what we mean when we say it?
+
+**Leda:** But if you're starting today, don't go and do a FinTech course and expect it to give you answers. Come into the space, determined to use technology, to solve a real problem, and use that as a filter to determine where it is you work. And you might find yourself being drawn to an incumbent more than to a startup, because actually solving a real problem isn't easy. And we do see a lot of startups that come and go because they have some very interesting, cool ideas, but they're not really aligning to a real problem. And that's partly why we have seen so much innovation on the sort of thinness top layer of retail banking, but not in the more complicated stuff where people have often tried to solve the things they don't yet know. They don't get understand. So I would say definitely try to solve a real problem. The second thing I would say is we are in a tech business Very institutional business, but people will matter more as we go forward from anything else, talent, culture, attitude. So pick the team, pick the cause and go for it.
+
+**Rhyd:** Something you said in a recent article at FinTech features really resonated with me just cause I see it a lot outside of FinTech, over a number of industries. You mentioned something about the difference in effort spent building proprietary versus utility solutions or technology. And so many companies seem to waste their time, reinventing the wheel, when they could be doing stuff that really matters to their customers
+
+**Leda:** Absolutely. Absolutely. And I think part of it is. People try to redo what they were doing previously and they don't necessarily stop to think that it was not, it was propping up a system rather than solving a problem. There is also a lot of bad habits. I've actually, I've got a book coming out in year that talks about this a lot, so I'll go back to that in a, um, there's a lot of learned habits, a lot of, a lot of habitual behaviors that we don't stop to challenge.
+
+**Leda:** So why do you build it yourself? Because it used to be the best way to ensure that you retain your advantage, but it isn't anymore. Speed is the best way to ensure you retain your advantage. So why compromise speed? Because you have muscle memory and you just repeat what you used to do, but I've had so many times in the last few years, particularly as I grew up in institutional banking through BNY Mellon where you'd say to people go for the utility. And you'll see the people you're looking at. So the, the custodians and the core banking providers, like , you go, go for the utilities, solve the plumbing problem. Oh. But it's not sexy. And then you'll turn to the solution providers the lenders and the mortgage providers: just leave all of that to me. And ah, but that's not serious. And short of a time machine. You you get, and it's emotional, right? There is no practical or monetary value to trying to do both. It's emotional. It's that sense of serious banking owns its customer and owns its stack. So you see a lot of providers of end consumer or could be retail or corporate end consumer products going yeah. Yeah, yeah. But I need the grown up banks own their stack. And then you see a lot of banks that would be much better off creating a platform to either use as a banking, as a service platform, or leverage the custodial agency functions without worrying about the product distribution oh yeah yeah yeah but what about the customer? And you're like everyone who's tried to do both has achieved mediocrity at best. the one, you stand a chance of being best at, but there is a massive emotional pullback, which I think we'll stop seeing as, as a new generation of bankers comes in.
+
+**Rhyd:** You mentioned a book when's that coming out?
+
+**Leda:** Probably February. Yeah, I'm very excited. I am very excited. I have, as, as you mentioned earlier, I've been writing this column and, banking futures for over six years now. And it started, pretty much as therapy. Things I wanted to say. For whatever reason, the audience inside the organization, I was in felt too invested in the specifics because as you've noticed I name no names, just sort of teasing out the themes.
+
+**Leda:** Um, it was. I'm not going mad here moment. And when we started Tanya said let's make it weekly, and I had been writing on and off, for BankNext they closed that down, Tanya was like, do you wanna write for me? I said, yeah, yeah, sure. Like, I'll send you a piece every now and again, she goes, no, no. I want a weekly column. It's like, who's gonna read this every week. I pretty much say the same stuff every week. Who's gonna read it. And it's like, you you're wrong.
+
+**Leda:** People will you'll have a very steady, steady audience and she was right. And it's humbling to be honest with you, but it's also been amazing to put those ideas out there and actually find that there is a very sizeable community of people who feel the same way about things. So the book was tanya nudging. I need to get her a ginormous cake at the back of this, and it's not based on the columns, but it's working on the same themes as the column and essentially boils down to the things that hold us back and the things that will move us forward as an industry, which is mostly us.
+
+**Leda:** We have the thing that holds us back with the thing that will move us forward.
+
+**Rhyd:** I'm looking forward to that coming out. Apart from the book what's coming up next for you and for 10 X banking.
+
+**Leda:** We are continuing to work with our existing clients who are going from strength to strength I'm sure you've seen happen with Chase in the UK going gangbusters as one of my other clients mentioned and expanding our collaboration into transaction banking with WestPac which is super exciting
+
+**Leda:** We have, um, client being announced soon and another client and another geography we've been working with who are going through a regulatory Set approval and be able to announce these, that actually we're chomping at the bit to talk about them but we can't quite yet and working with a couple more exciting prospects. So as you can tell it's a growth story We had three or four years in the company of sort of stealth work. And then the last couple of years have been after, Westpac and chase went live. It has been a case of what comes next. And we do take our founders preference, very strongly of, of celebrating the wins and not your intention to do the work. So we hope we'll be able to sit down a couple of things.
+
+**Rhyd:** I hope so. Well, that sounds like excited times coming up for you.
+
+**Rhyd:** And if anyone wants to get in touch with you, what's the easiest way?
+
+**Leda:** @LedaGlyptis on Twitter or LinkedIn.
+
+**Rhyd:** Brilliant. Well, thanks for your time today. That was Leda Glyptis she's chief client officer at 10 X banking. Thanks Leda.
+
+[Back to episode](/podcast/ep-1-leda-glyptis-bring-your-whole-self.html)
