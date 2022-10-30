@@ -22,7 +22,7 @@ twitter: LedaGlyptis
 linkedin: todo
 site: www.10xbanking.com
 
-embed-link: TODO
+embed-link: 635ed27a4bd1220012a2428d
 
 keywords:
 - baas
