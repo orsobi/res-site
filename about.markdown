@@ -9,20 +9,20 @@ alt: Rhyd Lewis
 ## The Show
 
 {:.show-notes}
-**Rethink Everything** is a podcast that aims to uncover the critical and defining moments in life that make people 
-pause, reflect and rethink everything. Each week, [Rhyd Lewis](https://rhydlewis.net) interviews a guest to understand 
-more about their life, their career and that moment that made them rethink everything.
+**Rethink Everything with Rhyd Lewis** is a podcast that aims to uncover the critical and defining moments in life that
+make people pause, reflect and rethink everything. Each week, [Rhyd Lewis](https://rhydlewis.net) interviews a guest to
+understand more about their life, their career and that moment that made them **rethink everything**.
 
 ## The Host
 
 {:.show-notes}
-Rhyd is a consultant in the IT and software industry currently helping organisations rethink how they deliver value to 
+Rhyd is a consultant in the IT and software industry currently helping organisations rethink how they deliver value to
 their customers.
 
 {:.show-notes}
-Rhyd is intrigued by the stories of how people work and enjoy life (irrespective of their industry or experience) and 
-how they use those significant events to rethink their approach to both. He is also passionate about music, technology 
-and interested in helping others produce their best work.
+Rhyd is intrigued by the stories of how people work and enjoy life (irrespective of their industry or experience) and
+how they use those significant events to rethink their approach to both. He is passionate about music, technology and 
+helping people create awesome products & services.
 
 ## The Legal Bit
 

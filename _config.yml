@@ -1,7 +1,6 @@
-title: Rethink Everything
-email: hello@rethinkeverything.show
+title: Rethink Everything with Rhyd Lewis
 url: https://rehinkeverything.show
-description: "The podcast that uncovers the critical moments in life that make people pause, reflect and rethink everything."
+description: "The podcast that uncovers the defining moments in life that make people pause, reflect and rethink everything."
 keywords: "podcast,interview,business,social"
 author:
   name: Orsobi Ltd.
@@ -10,6 +9,7 @@ header_pages:
   - contact.md
 social_links:
   twitter: RTEverythingPod
+  instagram: RTEverythingPod
 future: true
 date_format: "%B %d, %Y"
 acast-show-name: rethink-everything
