@@ -20,6 +20,9 @@ duration: 1 min
 
 embed-link: 635b821f6c76fa0011909f5a
 
+linkedin-id: rhydlewis
+twitter-id: whitebeargames
+
 keywords:
 - podcast
 - interview

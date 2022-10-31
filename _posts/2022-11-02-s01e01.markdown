@@ -18,8 +18,8 @@ air-date: November 2, 2022
 record-date: September 12, 2022
 duration: 24 mins
 
-twitter: LedaGlyptis
-linkedin: todo
+twitter-id: LedaGlyptis
+linkedin-id: leda-glyptis-phd-272492
 site: www.10xbanking.com
 
 embed-link: 635ed27a4bd1220012a2428d
