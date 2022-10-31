@@ -35,3 +35,8 @@ $secondary: #0077b8;
 
 @import "bootstrap/bootstrap";
 @import "custom-styles";
+
+.btn-outline-primary {
+  @include button-outline-variant(#ffffff, #ffffff, lighten(#0077b8, 5%), #0077b8);
+}
+
