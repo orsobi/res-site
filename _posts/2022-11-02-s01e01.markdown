@@ -4,7 +4,7 @@ date: 2022-11-02
 img: ep-1-leda-glyptis.jpg
 alt: Leda Glyptis
 transcript: /transcripts/ep-1-leda-glyptis-bring-your-whole-self.html
-status: preview
+status: published
 episode-id: s01e01
 permalink: /podcast/ep-1-leda-glyptis-bring-your-whole-self.html
 series-number: 1
@@ -48,7 +48,7 @@ keywords:
 ---
 
 {:.show-notes}
-Rhyd talks to Leda about her career in fintech, myths about banking, the 2008 financial crisis and how advice from her boss made her realise that she could be herself at work. Leda's new book "[Bankers Like Us - Dispatches from an Industry in Transition](https://www.routledge.com/Bankers-Like-Us-Dispatches-from-an-Industry-in-Transition/Glyptis/p/book/9781032202037#)" arrives February 2023.
+Rhyd talks to Leda about her career in fintech, myths about banking and the conversation with her boss that fundamentally changed her working life. Leda's new book "[Bankers Like Us - Dispatches from an Industry in Transition](https://www.routledge.com/Bankers-Like-Us-Dispatches-from-an-Industry-in-Transition/Glyptis/p/book/9781032202037#)" arrives February 2023.
 
 Links:
 

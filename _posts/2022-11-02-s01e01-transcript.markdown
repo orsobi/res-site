@@ -4,7 +4,7 @@ permalink: /transcripts/ep-1-leda-glyptis-bring-your-whole-self.html
 title: Ep1 — Bring Your Whole Self
 duration: 22 min
 date: 2022-11-02
-status: preview
+status: published
 ---
 
 **Rhyd:** In today's episode, I'm talking to Leda Glyptis. She's the chief client officer at 10 X banking, a cloud native banking product company based in the UK. Leda, thanks for joining me today.
