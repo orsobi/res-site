@@ -24,15 +24,12 @@
                 <span class="guest-name">{{ page.air-date }} </span>
               </div>
             </div>
-            <div class="row">
+            <div class="row py-3">
               <div class="col">
-                <iframe class="p-3" title="Listen" width="100%" height="110px"
-                        src="https://embed.acast.com/{{ site.acast-show-id }}/{{ page.embed-link }}?bgColor=0077b8&font-family=Work%20Sans&font-src=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans"
-                        frameBorder="0"></iframe>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col text-center">
+                <a class="btn btn-outline-secondary text-center" role="button" href="https://subscribe.acast.com/{{ site.acast-show-id }}">
+                  <i class="fa fa-podcast"></i>
+                  Subscribe via Acast
+                </a>
                 <a class="subscribe-link" title="" data-toggle="tooltip"
                    href="https://podcasts.apple.com/us/podcast/{{ site.itunes-show-id }}"
                    data-original-title="Subscribe in Apple Podcasts">
