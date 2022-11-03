@@ -1,6 +1,6 @@
-title: Rethink Everything with Rhyd Lewis
-url: https://rehinkeverything.show
-description: "The podcast that uncovers the defining moments in life that make people pause, reflect and rethink everything."
+title: Rethinking Work & Life with Rhyd Lewis
+url: https://rethinkingworklife.net
+description: "The podcast that uncovers the defining moments that make people rethink their work & life."
 keywords: "podcast,interview,business,social"
 author:
   name: Orsobi Ltd.
@@ -9,7 +9,7 @@ header_pages:
   - contact.md
 social_links:
   twitter: RTEverythingPod
-  instagram: RTEverythingPod
+  instagram: rethinkingworkandlife
 future: true
 date_format: "%B %d, %Y"
 acast-show-name: rethink-everything
@@ -17,6 +17,5 @@ acast-show-id: 63440d1a71ca7a0012e0f3d1
 itunes-show-id: rethink-everything/id1652090407
 overcast-show-id: p4012515-3NrjbG
 spotify-show-id: 4UACxKSbtgRbSg5KfFy621
-podfollow-show-id: rethink-everything
-plausible-domain: rethinkeverything.show
+plausible-domain: rethinkingworklife.io
 plausible-src: https://plausible.io/js/plausible.js

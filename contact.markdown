@@ -9,5 +9,5 @@ img: podcast logo.png
 
 {:.show-notes}
 You can find the show on [Twitter](https://www.twitter.com/RTEverythingPod) and 
-[Instagram](https://www.instagram.com/rteverythingpod/). Follow us there and get in touch if you have a 
+[Instagram](https://www.instagram.com/rethinkingworkandlife/). Follow us there and get in touch if you have a 
 question or a suggested guest.  
