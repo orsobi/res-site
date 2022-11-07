@@ -1,0 +1,98 @@
+---
+layout: transcript
+permalink: /transcripts/ep-2-nigel-shanahan-a-dozen-tweaks.html
+title: Ep2 — A Dozen Tweaks
+duration: 20 min
+date: 2022-11-09
+status: preview
+---
+
+**Rhyd:** In today's episode, I'm talking to Nigel Shanahan. He's the founder of 2 companies: 1 Mill Street, a flexible co-working space in the centre of Leamington Spa and Make Good Grow, a social enterprise that helps connect businesses and good causes. Nigel, thanks for joining me today.
+
+**Nigel:** It's a pleasure. Nice to see you.
+
+**Rhyd:** Yeah. Good to see you. So Nigel, what are you rethinking about at the moment?
+
+**Nigel:** I have an Evernote log Rhyd and I put down "there's an idea" and I'm bonkers at this stuff. And 99 out of a hundred of these ideas are really daft. And I'll say to Desi — my wife — "I've got an idea" and within 10 seconds, yeah, it's in the scrap heap, still on my Evernote. But the one thing I'm rethinking at the moment is like a contrarian view of all the information that we're awash in — on the worldwide web, on the internet — is often about products and services and pushing you to the sales door. And the contrarian view I've got is but what's not to like about that? What's not to like about... and I've actually gone and bought URLs: whatsnottolike.com and wntl and if there's a language processing engineer out there, I'm gonna find somebody who's gonna work with me to actually do aggregation of all this information to find out. Yeah - but tell me what's not to like not always pushing me towards the sales door and that's what I'm rethinking at the moment.
+
+**Rhyd:** So you're a successful entrepreneur and investor. Is there a common myth about entrepreneurship or investment that perhaps listeners might not realize?
+
+**Nigel:** I think often people look at the really successful entrepreneurs -  I don't mean people like myself - people out that are in the national news all the time. And they think it's one big idea and away we go. And I think that that's a myth. I think it's a thousand tweaks, it's a dozen pivots. It's lots and lots of agility. It's monster amounts of resilience and a load of hustle. And that's what entrepreneurship is. And those people that said, well, I had this idea and then it sort of, you know, we laboured on it for a year and it went, I don't really see those, you know. Even take some of the big boys, Airbnb. They had 5 different business concepts of Airbnb the thing that landed as Airbnb is today really took off. And I just think that's the myth.
+
+**Rhyd:** So there's a lot of bluff and sort of bluster of people hiding the success actually behind the hard graft that they've put in and others have put in.
+
+**Nigel:** I think so. Yeah. If I'm honest, I do. Yeah, definitely. And you know, I do think today you have to be a... I think people think it can be just a pure digital play and it's not, it's still about people and you've still gotta get out there and do hand to hand combat with people and get 'em on side. It might not be your customers if it's a B2C play but it's people who are in your partnership ecosystem. It's very much about, it's still a big people game, even if it's a big digital play you've got as your proposition.
+
+**Rhyd:** That's interesting. Like you mentioned earlier about having a lot of ideas and Evernote but execution is the thing, that's the tricky bit. And so an idea is worth nothing really. It's the actual seeing it through that counts.
+
+**Nigel:** Yeah, and people do, I agree and people say that and it is so right Rhyd I think. And one of the things that I've noticed is that because at Mill Street, I do talk to a lot of the members and people in the community there and there's an of awful lot of them that have great ideas. And then there's an awful lot of them that actually do some execution but they don't stay with it and they don't tweak it and they don't adjust it and they don't pivot back and they don't sort of say, okay, that's a failure, but this type form might actually be something. So they don't exhaust it I don't think before they actually sort of wind it down. And that that's definitely a feature of successful people. I think that they, you know, their resilience shows through no matter what.
+
+**Rhyd:** I'm very keen to know that event that made you pause for a moment and rethink everything. Can you tell us more about that?
+
+**Nigel:** There's 2 that stand out for me. And one was, I was in IBM and I had a reasonably good career in IBM and I loved the company, I loved what we did. And I was in the sales division. So it was all about customer relationships. And I remember having an appraisal with my boss, Derek, and he was sort of saying, "well, you've done really well from a sales performance point of view, but I do need to see you down at Bedfont Lakes a little bit more playing golf and doing a bit of a, you know, walking the floors and getting your profile up" and I basically said that was a load of bollocks. And he turned to me and said, "you've become quite a cynical, miserable sort of bastard, haven't you?  And I said, "well, Derek, I haven't, but you know, I just don't think that's the next step. Surely my performance is what matters?" We had this difference of opinion where Derek said, "have you thought about perhaps, you know, moving on?" And I said, "you know what, Derek I'm going to". And that was 6 weeks later, I started my own company and I was outside of IBM with what became, Rant & Rave the software company.
+
+**Rhyd:** Wow. So after just, so there must have been, well, was there any sort of trepidation or fear on your part or did you go into it head first excitement?
+
+**Nigel:** Loads and loads. Yeah. I mean, I think we'd... it wasn't the next 6 weeks. The build-up to that was I always hankered to be, you know, to have my own independence, to make my own decisions to, you know, to win or lose, you know, with my own team, but not being part... I definitely -  I don't know - felt a bit reduced by the corporate environment. So it was always in my mind and I was always playing around with ideas, but I think they got crystallized in the following 6 weeks, just by the whole thing of Derek - who was a big friend, by the way, he wasn't one of those - but it was a sort of a realization of... and it scared the hell out of us all for sure. And I think for looking back, you know, 2 years down the line, after that, I was thinking, God, I could, I could have been having a cushty salary and my weekends to myself, but yeah, no regrets.
+
+**Rhyd:** So that decision then led to you building up a company over what 15, 20 years is that right?.
+
+**Nigel:** Yeah. It was a 20-year overnight success that one Rant and Rave you know. And I was gonna say in the, in the next sort of rethink moment was we struggled for 3 or 4 years. We grew the business, we took venture capital funding. So we had business angel funding, we had venture capital funding. And we were growing the business but there was a point midway, you know, in the first 5 years where Vodafone was our main route to market and Vodafone were great for us because they introduced us to all the big blue chips. But all the big blue chips who loved what we had... It was Vodaphone that insisted "you are not allowed to have a dialogue or relationship with those big blue chips. You have to be introduced by an account manager. And if you want to change your product, you have to go through a product management cycle in Vodafone". I rallied against it, went back into Vodafone to proclaim "this isn't fair". And the Vodafone marketing director said "you're right, we're gonna drop you". And I was like "if you drop us now, we are gonna fall out of the sky. You do realize this?" And he said, "no, no. It's just that you are a small player but you have a bit of a stranglehold over some of our customers. It doesn't quite feel right. We'll support you. Tell me what you need". And that was a panic moment where I had to rethink everything. The VCs in their wisdom decided that they couldn't carry on with that relationship. They were scared to death. So the rethink moment was: right, let's get the company back in our own hands. So we instigated a management buyout and that was a big rethink moment for us because we really technically only had one customer, which is Vodafone. We had to go out to all the blue chips and say, "you know, Vodafone, relationship's great, we're still friends. However we can, we bill you directly?" And that was a big moment and a big rethink moment and you know, I'm glad to say it worked in our favour.
+
+**Rhyd:** So how long after that decision by Vodafone, did you decide to sell the company and, and do something else?
+
+**Nigel:** It was a funny thing because we really, I really merged two businesses together. One was the first business we had was pushing out text messages and voice messages and picture messages on behalf of brands like Barclays and Manchester United, et cetera. And then I had this idea of what about if a consumer who was receiving these messages could actually send their thoughts back in. And that was really the Rant and Rave thing. So it was a different concept instead of broadcasting out. It was also offering a solution for these brands to say, "Hey, you can connect with your customers by sending them information but you can grab information from them". And that was where the feedback component of the customer experience component would come in. And we had to sort of push those two solutions together. It was 10 years after that we ended up selling the business to an American software company called Upland
+
+**Rhyd:** Right so? 10 hard years...
+
+**Nigel:** and half.
+
+**Rhyd:** but ultimately successful.
+
+**Nigel:** Yeah. Ultimately successful. Yeah. Lucky and successful. Yeah.
+
+**Rhyd:** And do you think there are stories of lots of companies that try and do exactly what you did? Do you think luck plays a large part or it's actually just the hard, the effort and the time you've put into it?
+
+**Nigel:** Do you know? I think it's a big component of all those things, Rhyd. I do think some luck into it for sure. You know, you can't, you, you've gotta be lucky if you've got your health and you feel vital and what to go and grasp things. I think there's definitely the team component's the big thing for me though. If you've got a team with you, they're all aligned, they've got the same culture and values, their beliefs are the same, they're  transparent. You know, they're happy to have conflict and disagree, but because of the common good that we're all after, that lures you on, that I think, that's a big component of any business, any successful business. I really do that whole senior team thing.
+
+**Rhyd:** And so how did you go then? So you, you were running Rant and Rave. You were the CEO, the chairman, the founder, but then you switched - after selling the company - you did what surprised me at the time, which was that you set up 2 new companies - and potentially two very different companies - so how do you juggle your time between running the co-working space in Leamington versus the other side of it, which is the social enterprise that helps companies donate time and effort to charities?
+
+**Nigel:** Well, I had a friend who was a non exec. He became the chairman of Rant & Rave, and I in essence became the non exec. And I said to him, "you know, I'm thinking about the selling the business et cetera". And he said, "just don't make sure that what you don't do is just end up doing nothing, go out to seed it'll drive you mad. You've gotta have something". And that drove me on to - once the transaction was done - to go and put together Make Good Grow and 1 Mill Street. The driver behind Mill Street was it's got to be a better way of people working together than there is at the moment where there's head office, dull corridors, et cetera. There's gotta be a better environment to collaborate in a spirit of we're all in it together and we can help and share resources. So that was behind Mill Street. You've got the ethos of Made Good Grow: there's gotta be an easy way for businesses to share their good with with causes. The context shifting is really, really hard and I'm still, 3 years down the line, still struggling with that role. You know, I used to get up in the morning and worry about Rant & Rave and as it grew the challenges, when you have to sort of separate out, you know... I am also an investor in Social Supermarket, which is a a social marketplace for products, all of which have got a good social story to them. So the context shifting of all those things is the thing I've struggled with the very most. I've resolved it with Make Good Grow and Mill Street by having a good team. And I weigh in once a week with those guys. We've now sort of scaled it, scaled them to a point where, you know, I can see a compelling scorecard. I can see the narrative of the weekly report to see what's gone right and wrong and what we're gonna stop and start. So you put some controls and mechanisms in place, but it all boils down to trust, I guess. You know, you've got to trust the people you put in place. They're on the journey with you and they've got you know, they've got the character and the capability to work alongside you. And and as long as respect's there then they can, in theory, I could go away from month to Spain and things would be you know, hunky dory.
+
+**Rhyd:** Am I right in thinking that you started 1 Mill Street just before the pandemic hit?
+
+**Nigel:** Yeah.
+
+**Rhyd:** So how did you navigate through that difficult time? It must have been hard.
+
+**Nigel:** Well, we'd spent a lot of money, just refurbing what was a tired building into something where its power came back to the town and it looked, looked fab. And then signed up members to come into Mill Stree and 3 days later went into lockdown and yeah it was thoughts of big white elephant... Have we got, have we bought a big white elephant? What happened was lots of members suspended. Instead of cancelling, we just said, "look, we understand if you suspend your membership we'll suspend payments. That's fine". And loads did that, but quite a lot came to us straight away and said, "well, we've got nowhere else to work. We're working here because we are all in. Can you make the place safe?" And with a far smaller bunch of members, we made the space suitable for them through the pandemic with the right cleaning processes and safety precautions. And as a result of that, we got to really know what people want. And we created some really strong relationships that I hope have helped us in this next phase post... Well, let's say hopefully post-pandemic.
+
+**Rhyd:** I wasn't expecting you to say that. So I was, I thought it was gonna be, you know, it was like nine months of horror, but it obviously, if the fact that you helped companies and they helped you, that sounds like a really positive and really impressive message from you and from them.
+
+**Nigel:** It's that agility thing, isn't it? There's times where you think "okay, we are done for" and there were moments when we used to have team meetings and think, "oh my God, well what, but what can we do"? And I think it's, that's what you sort of try and wrestle with it don't you? In every challenge there's just the little bits of opportunity that you say... We had a coffee house and we we shut it down. And then we said, "oh, we can do take-outs". And we created a take-out journey. So I think a lot of great businesses have done really well. Albeit through a struggle because they've sort of reinvented themselves or they've thought about things in a different way to get through, you know, and credit to them.
+
+**Rhyd:** And it feels like you, you definitely saw the positivity and the opportunity to try and try and do something different almost like you had to pivot the idea of what 1 Mill Street was for in that time that the pandemic was ongoing.
+
+**Nigel:** Yeah, I think we definitely did. And I, as I say, I think there's a lot of businesses who did the same thing. I think there's only so much time you can spend moping around and thinking, "well, we're done for, what can we do? What can we do"? Sometimes it's go and get an emergency loan or whatever it is to stay. But you know, there's a lady around the corner from us called she's got the enchanted tea rooms and it's tiny little place. But what they do is for small children, it's like a Disney-style type breakfast they do there. So they have Disney-style characters come out and sing songs and they have a lovely tea party with children. And of course, through the pandemic  it was done for, you couldn't have it. And she was thinking, "well, I don't know what to do". But she was a really resilient lady. She put loads of efforts into the NHS. She started baking for NHS nurses just because she wanted to do some good in her day. And she's a wonderful lady. And, as a result of that, she's been recognized by the Queen and she's had a lot of - quite right - plaudits. But through the pandemic, she started creating TikTok videos of what they were and she's sold out now for the next 2 years solid.
+
+**Rhyd:** If you could send yourself a message back in sort of 2000, 2002, or just before you started Rant & Rave, what you would you tell yourself?
+
+**Nigel:** I would say two things really I'd say: make sure you calm down a bit. I think in those early first 5 years I was... people would describe me as, on a nice day, they would say "he's dead passionate" but I think, behind my back, they would say "he can be an arsehole". I definitely think that cause I was just so anxious and stressy and hyper. And I think that passes on the wrong message to people. And there are certainly moments with team members, the early guys that I am glad we've still friends actually to the day, but I must have been an absolute nightmare to work with. And it's like calm down would be one. And the other one would be, you'll find a way. I think you were, there were moments, you know, in year in where I thought, "God, what have I done here?" You know, "have I really cocked this up for me and the family? And it was like, no, it'll work, you'll find a way. And cause I think that's the main message for entrepreneurs. There's always a way out there. There so many resources and tools, you can find a way, but it probably won't be the first thing that you started with, there will probably be 10 steps on from there.
+
+**Rhyd:** So don't give up,
+
+**Nigel:** Do not give up, do not give up.
+
+**Rhyd:** I think that's a great way to end it. What's coming up next for you and 1 Mill Street and Make Good Grow Nigel?
+
+**Nigel:** Well, there's some time focusing on social supermarket and I suppose the final, you know, it's family first really Rhyd you know, I've got some, you've got some challenges with health in the family at the moment, and you realize all this doesn't matter. It's about the family really. So I think that's very much gonna be our focus going forward.
+
+**Rhyd:** Nigel, if wants to get in touch with you or your companies, what's the, what's the easiest way for them to do that?
+
+**Nigel:** Yeah. nigel at makegoodgrow.com. So those three words: make good grow dot com is my email. Nigel at.
+
+**Rhyd:** Well, thanks for your time today. That was Nigel Shanahan, founder at 1 Mill Street and Make Good Grow. Nigel, thanks for your time.
+
+**Nigel:** That's a pleasure Rhyd.
+
+[Back to episode](/podcast/ep-2-nigel-shanahan-a-dozen-tweaks.html)

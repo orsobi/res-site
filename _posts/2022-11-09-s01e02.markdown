@@ -1,0 +1,45 @@
+---
+layout: episode
+date: 2022-11-09
+img: ep-2-nigel-shanahan.jpg
+alt: Nigel Shanahan
+transcript: /transcripts/ep-2-nigel-shanahan-a-dozen-tweaks.html
+episode-id: s01e02
+permalink: /podcast/ep-2-nigel-shanahan-a-dozen-tweaks.html
+series-number: 1
+status: preview
+title: Ep2 — A Dozen Tweaks 
+name: Nigel Shanahan
+role: Founder
+company: Make Good Grow & 1 Mill Street
+
+air-date: November 9, 2022
+record-date: September 12, 2022
+duration: 19 mins
+
+twitter: nigelshanahan
+linkedin: nigelshanahan
+site: todo
+
+embed-link: offmenu/ep-165-richard-ayoade
+
+keywords:
+- podcast
+- interview
+- business
+- entrepreneur
+- charity
+- life
+- career
+- startup
+
+---
+
+{:.show-notes}
+In this episode, Rhyd and Nigel talk about entrepreneurship and the highs and lows of running a startup. Nigel delves into his time running & selling a tech startup — that, in his words, was a "20 year" overnight success — and how you should never, ever give up. Nigel is the founder of [1 Mill Street](https://1millstreet.com) and [Make Good Grow](https://makegoodgrow.com).
+
+Links:
+
+* [Make Good Grow](https://makegoodgrow.com)
+* [1 Mill Street](https://1millstreet.com)
+* [How I Made It - The Times (Jan 2020)](https://www.thetimes.co.uk/article/nigel-shanahan-founder-of-rant-amp-rave-i-made-millions-from-helping-punters-complain-via-text-d89n97gqk)
