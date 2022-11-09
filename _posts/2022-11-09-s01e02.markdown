@@ -17,8 +17,8 @@ air-date: November 9, 2022
 record-date: September 12, 2022
 duration: 19 mins
 
-twitter: nigelshanahan
-linkedin: nigelshanahan
+twitter-id: nigelshanahan
+linkedin-id: nigelshanahan
 site: todo
 
 embed-link: 6369433996963400118a38c7
