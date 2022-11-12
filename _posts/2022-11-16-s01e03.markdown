@@ -1,0 +1,49 @@
+---
+layout: episode
+date: 2022-11-16
+img: ep-3-emma-robertson.jpg
+alt: Emma Robertson
+transcript: /transcripts/ep-3-emma-robertson-something-we-will-have-to-talk-about.html
+episode-id: s01e03
+permalink: /podcast/ep-3-emma-robertson-something-we-will-have-to-talk-about.html
+series-number: 1
+status: preview
+title: Ep3 — Something we'll have to talk about
+name: Emma Robertson
+role: Chief Executive Officer
+company: Transform
+
+air-date: November 16, 2022
+record-date: August 10, 2022
+duration: 21 mins
+
+twitter: todo
+linkedin: todo
+site: todo
+
+embed-link: offmenu/ep-164-richard-e-grant
+
+keywords:
+- podcast
+- interview
+- business
+- grief
+- loss
+- coping
+- company
+- people
+- challenge
+- health
+- difficult
+- digital
+- therapy
+
+---
+
+{:.show-notes}
+Rhyd's guest this week is Emma Robertson, CEO of Transform a Technology and Data consultancy based in London and Manchester. Having known each other for the best part of 30 years, Emma and Rhyd talk briefly about the industry they both work in before switching gears and talking about the 1 thing that we all share.
+
+Links:
+
+* [Transform UK](https://www.transformuk.com)
+* [Emma on LinkedIn](https://www.linkedin.com/in/robertsonej/)
