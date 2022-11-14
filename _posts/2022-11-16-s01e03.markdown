@@ -14,14 +14,13 @@ role: Chief Executive Officer
 company: Transform
 
 air-date: November 16, 2022
-record-date: August 10, 2022
 duration: 21 mins
 
-twitter: todo
-linkedin: todo
+twitter-id: transformUK
+linkedin-id: robertsonej
 site: todo
 
-embed-link: offmenu/ep-164-richard-e-grant
+embed-link: 6371f95b358a7000124520a0
 
 keywords:
 - podcast
@@ -41,7 +40,7 @@ keywords:
 ---
 
 {:.show-notes}
-Rhyd's guest this week is Emma Robertson, CEO of Transform a Technology and Data consultancy based in London and Manchester. Having known each other for the best part of 30 years, Emma and Rhyd talk briefly about the industry they both work in before switching gears and talking about the 1 thing that we all share.
+Rhyd's guest this week is Emma Robertson, CEO of Transform, the Technology and Data consultancy based in London & Manchester. Emma and Rhyd talk briefly about the consulting industry, the impact of the global pandemic on remote working and dealing with the loss of those closest to you.
 
 Links:
 
