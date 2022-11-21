@@ -1,0 +1,172 @@
+---
+layout: transcript
+permalink: /transcripts/ep-4-matej-kvasnovsky-slow-down.html
+title: Ep3 — Slow down
+duration: 23 min
+date: 2022-11-23
+status: preview
+---
+
+**Rhyd:** In this episode, I'm talking to Matej Kvasnovsky. He's a Senior Product Designer based in London, and originally from Slovakia. Matej, thanks for coming on the show today, mate.
+
+**Matej:** Hey, Rhyd, thank you very much for inviting me. I love the name of your show, so it's very exciting to be here.
+
+**Rhyd:** Oh good man. I'll pay you later for that. What are you rethinking about at the moment, Matej?
+
+**Matej:** So first of all, I'm a big re-thinker, so that's why I was super happy to be on this show, but I wasn't able to articulate this very well until I read the book the Infinite game from Simon Sinek. And it's a great book. And the main message of the book is that the world around us has rules that are constantly changing. 
+
+It's an infinite game, not like a finite game. Like, for example, a football match where the rules are set for more than a hundred years, and they barely change, right? But the infinite game, the life around us is evolving. Things that were true yesterday are not going to be true today any more.
+
+And therefore, adjusting to the new rules is necessary. So for example, in my career, I'm rethinking right now whether I want to continue being an individual contributor or a manager. I always thought that moving to managerial role is a natural, but I realized that I'm really enjoying to be an individual contributor.
+
+And then if I zoom out, I'm, you know, thinking like, do I want to stay forever in UX industry? because thanks to my personal coach, I came to a realization that I don't need to, and that was very liberating feeling because I like to dream that one day I can become an illustrator or even a tour guide.
+
+Like these are very appealing callings to me. And I have experience with this. Maybe I will not be in UX industry any more if If I don't want to. And then in my life I'm rethinking right now the, the life in London with my wife. We absolutely love the city, but neither of us we're in the office for the last two years and we are working from home.
+
+And the local property market goes nuts. So, moving farther seems like, the wise thing, but then I think like, does UK need to be the limit? I'm not really sure about that. Like with my wife, we are both expats in London. She's from Brazil I'm from Slovakia, and we are already skilled in moving between countries.
+
+So it shouldn't be a problem to move again, I guess.
+
+**Rhyd:** So you're a product designer working in FinTech. What's a common myth about being a designer in a tech company that listeners might not realize do you think?
+
+**Matej:** There are so many myths around UX. It's still quite new industry and I could talk a lot about them, but I could choose two. 
+
+Like one myth that designers don't realize, and the other one that the people who are hiring designers or non design leadership team tends to incorrectly believe in.
+
+So leadership team they often incorrectly expect the designers will deliver beautiful designs, outputs, and ideally in vacuum with no inputs from users or from our team. But these design outputs are going to be only as good as the UX maturity of the businesses. So as a designer, I can push the UX maturity from the bottom by knowing my craft.
+
+I also need this non design leadership team to be open and implement changes in their thinking if they don't want to change anything. For example, they don't want me to bring some users to talk to, or if they don't want to consider design KPIs at a business level. That's dead end.
+
+So yeah, that's the myth from the leadership team
+
+**Rhyd:** I was gonna say on that, I agree with you one hundred percent on that. You and I have worked together and I work as a consultant trying to help companies build products and services. And the one thing I spotted over the years is that design is often either thought of the thing you do first and then you don't touch it again.
+
+Or it's an afterthought and it's like, oh, well let's quickly bolt on. Let's make, let's get a designer in and try and make everything we've built &quot;nice&quot;. And I think that's obviously a fundamental flaw. 
+
+**Matej:** And if a designer does a good job there will be a lot of findings that should affect the product roadmap, right? And this needs to be considered. If these things are just put in the drawer and no one wants to rather know what, where the findings, then what's the point of, of, of being user-centric or, or telling that we are user-centric.
+
+And then the, the, the other bit, like what designers incorrectly assume is that they think that they're hired to be advocates of users. But the fact is that as a designer, you need to be an educator of the business as well, right? Like a good design solution needs to serve both users and also the business. If it serves only users, business will be not happy.
+
+**Rhyd:** I definitely agree with that because a solution or a set of improvements that you're trying to develop, they've gotta solve a customer problem, but they've also got to do it in such a way that it helps drive towards a business outcome or a business objective that, that someone else is kind of trying to track.
+
+And if you're only focused a hundred percent on customers and not trying to solve the business problems as well, then. Whilst you'll keep your customers happy the business side of it will potentially struggle. So that's, that's an interesting point I think that may not be recognized in the industry.
+
+**Matej:** Yeah. Yeah. The, the business needs to be happy in the first place, otherwise you don't have money for paying rent or paying salaries to designers or developers or everyone else in the business, right? So it's important.
+
+**Rhyd:** You'd hope that, happy customers would mean a happy business, but that's not always the case. Happy customers, generally, yes, but sometimes there's an underlying business problem to solve that isn't directly related to a customer income.
+
+**Matej:** And I have been in startup previously where actually users were very happy. We had 1.5 million user base, but the business bankrupt because we didn't know how to monetize the, this amount of users and. That's the thing, like business wasn't happy, business didn't know how, designers didn't look at the needs of the business and, and we failed in that.
+
+**Rhyd:** Yeah, I think that's quite a common problem. And again, I've seen it a number of companies. So, Matej, what event made you pause for a moment and rethink everything?
+
+**Matej:** So there are many and big ones. But I'm going to mention the latest one and it's relevant to my life and my personal life. For 35 years of my life I was very fortunate and had no health issues.
+
+But in July, 2021, last year, however, I got my first seizure and I was diagnosed with brain infection and I had to undergo an urgent surgery, and the infection was wipe out with antibiotics. But there are some consequences. The brain tissue will be healing even for a couple of years, and I need to keep using medication, otherwise I might suffer from more seizures.
+
+That actually happened the previous month I forget to take a medication and I got more seizures. So I need to be very, very careful about losing this medication. But the thing is that also It's affected by this medication. I mean, it's nothing, nothing serious, but I have a lot of headaches, muscle twitches.
+
+My concentration is affected as well. So yeah, there are a couple of things that I need to change from this perspective.
+
+**Rhyd:** So that, that sounds obviously horrific. And you, you must have been very frightened. When it first happened, what did you think was going on? Did you have any idea?
+
+**Matej:** So for me, really it was like really good nap. Like if paramedics didn't wake up by my side. I wouldn't know that I went through seizure. My wife was obviously very scared. I dunno how it looks, what is happening. My body just switches off. But she said it's not a pleasant view and you are basically in huge cramp and your eyes are rolled out.
+
+And so it's not nice. Then when I come together and when I start more conscious, then I feel that like my muscles are sore and I often also bite my tongue very strongly. So this is, this is, these are like small prices for, for that. For that seizure. But I was also very fortunate so far.
+
+It always happened at home, at sofa. So which is the best place that it can happen. So there are things that I need to be very careful about now, like, definitely I cannot drive a car. I'm not allowed, I cannot ride the bike. I cannot swim I shouldn't be close to an open fire. I could basically burn myself because body just switches off. I also, when I commute, I'm trying to not be close to the platform. Right? So I need to be careful about this things.
+
+**Rhyd:** So you're having to think about things that people just take for granted or just not even consciously register. So how, what does that mean for you today then? Cause you've mentioned that sometimes you got trouble with, with concentrating, having worked with you and, and I know your design work, design to me requires sort of periods of concentration and focus. So is that affecting your work at all?
+
+**Matej:** So I'm trying to live as previously as, as much as possible, but yeah, I'm taking, let's say bigger breaks when I feel that I'm too tired. I basically have a nap or I just, I just stop for a while. I don't rush things. So, I know that it might, sounds like a cliche, but Only after this experience, I realized like how the life is fragile and how things can change in seconds and how nothing else apart from health really matters. And from this perspective, I'm basically, I'm not chasing Inbox Zero any more. I uninstalled email and Slack from my mobile.
+
+I basically don't care what is happening out of my working hours. With my wife, we try to take long walks around the neighbourhood. We started pet sitting amazing Noah. She even sleeps sometimes with us. So all the things that I tend to postpone and neglect before I just starting doing them now and there are actually things that, I should have done earlier, but only the experience with the, the seizure made these things in practice
+
+**Rhyd:** I don't think that's a cliche. I think actually more, more of us should do exactly that. Delete things from your phone. Take more time to spend time with your family.
+
+**Matej:** To, to slow down basically. Right?
+
+**Rhyd:** And how has your family responded to, to your diagnosis and your treatment?
+
+**Matej:** I mean, they're supportive. Like my wife, she's always around. She wants me to share my location all the time. So sometimes it's bit suffocating, but I understand the reason. It was very scary for both of us. So they're very supportive. And my family in Slovakia, they obviously know what happened but like compared to other cases, it's not a serious thing. It's something that you just need to learn how to live with. And as long as people know how to react to situation when it happens then everything will be fine. So yeah, just living our normal life as much as possible.
+
+**Rhyd:** Okay. So you're not letting it stop you do what you need to do, which is...
+
+**Matej:** Well, I mentioned the driving car or riding a bike. These are things that I enjoyed previously. But I cannot have everything.
+
+**Rhyd:** What about exercise in general? Are you able to go running or...
+
+**Matej:** Yeah, it's actually very helpful. Even doctors said that if I'm able, I should continue running. I like to run before, so now I'm running around stadium. I live nearby an Arsenal stadium, so I run around the stadium 40 minutes every other day. My goal is to run one hour every other day by the end of the year. And it's actually helpful for the brain. So, If I'm allowed and everything goes well, I I I will be maybe even pushing it little.
+
+**Rhyd:** That resonates with me as a person who likes to run, especially at times of, I dunno, stressful times of run often clears their head. So,
+
+**Matej:** Yeah. It's a great way how to meditate. I will say, like, I tried meditations before I'm. I know how to like, breathe in, breathe out. But running is like really nice way. How to switch off and relax and put some hormones in, in brain.
+
+**Rhyd:** Yeah. And you mentioned that you've got a couple of years whilst you've. Your brain tissue heals. What does the future hold? Then after two years, you think you'll be back to, you'll be allowed to drive a car, or is, or are you saying No, that's it now.
+
+**Matej:** I need to be free of, free from seizure for a while. I think it's one year or two years. Then slowly we will be removing the medications. And we will see how my body reacts to it. So I'm doing every quarter MRI scan. So they're looking at these scars on the, on the brain tissue. They're saying that they are improving. So there is a chance that I will be free from seizures and I will be not epileptic patient any more. But it's a long run 
+
+**Rhyd:** well, fingers crossed. I hope you recover and you're healthy, mate. I mean, if someone listening is possibly going through the same, thing. Have you got any advice to them on what they, what they might be able to do based on your experience?
+
+**Matej:** The medication that I'm using And the treatments for the epilepsy are, is really good level now, and people can live their life normally as any other human beings. So it's not limiting a lot. It's limiting only in couple of situations, but it's, it's not really a big deal. I think that if something like this happened to someone as a new thing It actually has good outcomes. Positive outcomes that you can learn from.
+
+**Rhyd:** Well, one thing that strikes Matej is that obviously you're taking this in a very positive and healthy outlook in terms of what you've been well, the cards that you've been dealt in terms of your diagnosis. And you mentioned that it has, you know, you're taking steps so it doesn't affect your work.
+
+**Rhyd:** Is there something that you wish you'd known when you first started out as a designer?.
+
+**Matej:** So it, when I started I was very impressed and amazed by the UI stuff. And I was maybe neglecting and postponing UX a little bit. And when I say UX, I mean, the discovery process and do user research. But over the time I realized that UX is actually much cooler than the UI. So I wish I had started practicing and learning discovery processes and user research researcher earlier.
+
+**Rhyd:** And again, for people who dunno what these terms are, I know you and I use them, you know, at work all the time. UX means what?,
+
+**Matej:** UX is a user experience. Design and UI is user interface. Right? And the, the, the belief is that the UI is part of the UX. So it's a small subset of the activities that user experience designer are doing.
+
+**Rhyd:** Okay, so the UI is the thing on your phone that you're interacting with pressing buttons,
+
+**Matej:** Yeah, and UX is the overall experience. If you achieved what you wanted,
+
+**Rhyd:** Yeah. So does that mean then Matej you're not that interested in UI any more, just more to do with, you know, user experience?
+
+**Matej:** I'm, I'm still enjoying ui, but I feel that UI designers could be soon replaced by artificial intelligence, honestly, because it's just a set of principles that you repeat and optimize. And that's something that I actually don't like about UX UI field in general, that as designers and also the business owners, they're paying a lot of attention to output. Is this UI better than this one? Is this image looking better than the other one? And this is very bad question without understanding the context better in which sense? Does it serve this objective or does it serve another objective? So it's very difficult to answer this question.
+
+And also designers, there are, I feel spending a lot of time on thinking which tools to use for the output and doesn't really matter. Like, there will be figma, there will be sketch, the tools that are the most commonly used today but there might be something different in the future. But the good design is not happening thanks to the tool.
+
+The good design is happening. Thanks to the UX work, thanks to the discovery and, and user research that I mentioned. It's more interesting and that's something that you cannot automatize.
+
+**Rhyd:** Okay. Understood. So in general, so something that perhaps the design industry should stop doing is what? Worrying less about tools and focusing more on...
+
+**Matej:** yeah, yeah. Focusing more on UX, focusing more on spending time with users, observing their issues, and, and then the solutions will pop up. There is no need to be in a cave and thinking about the best solution ever because you'll be never able to understand what the best solution is without putting some effort into discovery and user research.
+
+**Rhyd:** And if you had access to a time machine, Matt, and you could send yourself a message back 20 years or so, what would you send yourself?
+
+**Matej:** So don't allow your thoughts, opinions, and progress in your career to be defined by your identity and expertise. Identity and expertise are always evolving and are constructs that I found out are sometimes only in my mind and I felt in many moments in my life that I was too afraid of experimenting and going beyond my expertise in identity.
+
+I was postponing things like properly learning English or doing art, or practicing public speaking, but it was just because they weren't part of my identity yet, and I was afraid of experimenting with it. And I would change this mindset if I could.
+
+**Rhyd:** One thing I sort of noticed about design sometimes you're constrained. If you're designing for a mobile phone, then you've got a very sort of limited sort of canvas size to work with and there's some constraints or. A framework you might be using and that might limit your ability to be creative. How do you balance sort of that versus your sort of desire to be more artistic or free flowing in terms of the way you work?
+
+**Matej:** Exactly because of these constraints that you mentioned. I have this side gig where I'm creating illustrations and I sell them as print copies, and I'm trying also to sell them as NFTs. And I'm, I'm, I'm drawing and I'm inspired in by architecture and. I think I have my own semi-abstract style. And this to some might still sound like a design work, but in fact it's very different from the functional design that I work with in my work.
+
+It's very different from the artistic design. In the functional design, as you said, there are a lot of constraints I need to achieve actually results that are invisible to users. Whereas in this artistic design, I need to grab attention of the audience and, and, and keep it as long as possible. So there are no principles in the artistic design.
+
+There is no must. And I can be as free as, as as I want. Whereas in the functional design, in my work, I cannot. So this is the way how I'm balancing it. I.
+
+**Rhyd:** So in your artwork - what kind of format does it take?
+
+**Matej:** So it's also evolving and I'm rethinking it all the time. So, it started , it started with paper and markers. Then I moved to To half of the process to, to Photoshop, and now I'm mainly using iPad for sketches. And then I move doing stuff in Figma, and then I polish things in Illustrator. So it's evolving and that's what I actually enjoy.
+
+**Rhyd:** And if someone wanted to see some examples of your work, where would they be able to see that?
+
+**Matej:** So, I have prints on Etsy store and NFTs are on open sea. Everything is a label through my web page. kvaso.art. So there you can find all the illustrations categorized by countries. And yeah, that, that's basically it. From there you can get to all my social media, to Twitter, their Instagram and trying to promote this selling points as much as possible.
+
+**Rhyd:** Okay, Matej, so if anyone wants to get in touch with you, what's the easiest way?
+
+**Matej:** So I already mentioned the artistic alter ego, kvaso.art. I'm on Instagram, Twitter, Facebook, Etsy. And then my professional website and production profile is on kvasnovsky.net. And I also have my own Instagram, LinkedIn, Facebook. So all of these channels are active and I will be able to reply on all of them.
+
+**Rhyd:** Brilliant. All right, well all those links will be in the show notes and just leave it for me to say it's been really good to catch up again. I know we've haven't spoken in a while and obviously I was, we spoke shortly after a diagnosis last year. But it's been great to catch up and I'm really happy that, like I said earlier, you've been so positive about it and it's, you know, it's definitely inspiring to hear that, mate.
+
+**Matej:** Thank you very much. It was great to be here and I always love to talking to you. We haven't seen each other for a while because of Covid and then our past a different way, but it's always a great pleasure to catch up with you.
+
+**Rhyd:** All right, well thanks mate. That was Matej Kvasnovsky, Senior Product Designer at ACIN. Thanks mate.
+
+**Matej:** Thank you very much. Bye Rhyd.
+
+[Back to episode](/podcast/ep-4-matej-kvasnovsky-slow-down.html)

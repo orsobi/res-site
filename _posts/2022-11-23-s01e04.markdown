@@ -1,0 +1,52 @@
+---
+layout: episode
+date: 2022-11-23
+img: ep-4-matej-kvasnovsky.jpg
+alt: Matej Kvasnovsky
+transcript: /transcripts/ep-4-matej-kvasnovsky-slow-down.html
+episode-id: s01e04
+permalink: /podcast/ep-4-matej-kvasnovsky-slow-down.html
+series-number: 1
+status: preview
+title: Ep4 — Slow down
+name: Matej Kvasnovsky
+role: Senior Product Designer
+company: ACIN
+
+air-date: November 23, 2022
+duration: 23 mins
+
+twitter-id: KvasoArt
+linkedin-id: kvasnovsky
+site: todo
+
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- health
+- epilepsy
+- challenge
+- art
+- design
+- designer
+- ux
+- life
+- seizure
+- brain
+- focus
+
+---
+
+{:.show-notes}
+Rhyd's guest this week is Matej Kvasnovsky, Senior Product Designer at ACIN. Matej and Rhyd discuss common myths about design, Matej's amazing artwork and how his recent epilepsy diagnosis has made him rethink how he approaches work and life.
+
+Links:
+
+* [Matej on Twitter](https://twitter.com/KvasoArt)
+* [Matej on Instagram](https://www.instagram.com/kvaso.art/)
+* [Matej's artwork](https://kvaso.art)
+* [Matej's Etsy store](https://www.etsy.com/uk/shop/KvasoArt)
+* [The Infinite Game by Simon Sinek](https://simonsinek.com/product/the-infinite-game/)
