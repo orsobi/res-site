@@ -7,7 +7,7 @@ transcript: /transcripts/ep-4-matej-kvasnovsky-slow-down.html
 episode-id: s01e04
 permalink: /podcast/ep-4-matej-kvasnovsky-slow-down.html
 series-number: 1
-status: preview
+status: published
 title: Ep4 — Slow down
 name: Matej Kvasnovsky
 role: Senior Product Designer

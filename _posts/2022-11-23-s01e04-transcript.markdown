@@ -4,7 +4,7 @@ permalink: /transcripts/ep-4-matej-kvasnovsky-slow-down.html
 title: Ep3 — Slow down
 duration: 23 min
 date: 2022-11-23
-status: preview
+status: published
 ---
 
 **Rhyd:** In this episode, I'm talking to Matej Kvasnovsky. He's a Senior Product Designer based in London, and originally from Slovakia. Matej, thanks for coming on the show today, mate.
