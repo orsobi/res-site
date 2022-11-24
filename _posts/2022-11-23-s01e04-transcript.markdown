@@ -1,7 +1,7 @@
 ---
 layout: transcript
 permalink: /transcripts/ep-4-matej-kvasnovsky-slow-down.html
-title: Ep3 — Slow down
+title: Ep4 — Slow down
 duration: 23 min
 date: 2022-11-23
 status: published
