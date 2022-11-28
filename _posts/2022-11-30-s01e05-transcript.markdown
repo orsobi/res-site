@@ -1,0 +1,142 @@
+---
+layout: transcript
+permalink: /transcripts/ep-5-thomas-granier-autonomy-matters-the-most.html
+title: Ep5 — Autonomy Matters the Most
+duration: 24 min
+date: 2022-11-30
+status: preview
+---
+
+**Rhyd:** In today's episode, I'm talking to Thomas Granier. He's the CEO at Equal Experts a Global Software Consultancy, headquartered in London. Hello, Thomas. Thanks for joining me today.
+
+**Thomas:** Hi. Thanks for having me. Rhyd.
+
+**Rhyd:** No worries. Good to see you again. First up, Thomas, what are you rethinking about at the moment?
+
+**Thomas:** Well, there's this thing called the Pandemic. I think that really killed us, uh, as everyone else. And the, the big, big difference he created for us is, um, then, now we are this remote, first remote, hybrid business. And you have to understand, before the pandemic our business was 80% on-site with the customer, and now it's 80 like 90% of people are working remotely.
+
+And I remember looking down on those that, consultancy that were mostly offshore nearshore that don't have the time to spend in the office with the customer. And you know, they do mostly outsourcing and, and for us, they were not able to, you know, provide proper influence and help client transform. But now we are in the same boat really.
+
+So, you know, how do we, um, how do we keep our gig if we only see our customer barely once a month? So that's my.
+
+**Rhyd:** And is that something that is the whole company's having to think about and try and adapt to? Or is it actually because everyone was affected by the pandemic? Clients have... because they're in the same boat as well, they're trying to 
+
+**Thomas:** adapt. Absolutely. So we are, we are lucky that the old world is thinking it, but we have this unique position where we could do something practically well. That now we don't know how we will still be able to do it if we, you know, if we're not every day working with a customer. And, I think it's, there's no easy solution.
+
+**Rhyd:** No, I think from some of the people I've worked with recently, they have started to say, Well, we want our people to come back three days a week. And then they're seeing, you know, some cases, people resigning and saying, "Actually, I don't wanna work there". And I think one of the things the pandemic has shown is that this, just because you want people to be in the office, it has to be a reason or a benefit to people now that they know that they actually they can do the job, or if they can do the job at home, what's the benefit of coming in? I think that's something that everyone's gotta try and think about solving.
+
+**Thomas:** No, exactly, and, and you're right. Some customers not as many as you would think, starting saying "Please come back to the office". But they also say, "Oh, we don't have room for the consultants". So you're like, "Oh, okay, so then what do we do?" So there's definitely going to be something, some reckoning and we got to adapt.
+
+**Rhyd:** You're the CEO of Equal Experts and it's a successful and innovative technology consultancy. I think you founded it back in 2009, 2010. What's a common myth about consulting that listeners might not realize?
+
+**Thomas:** I actually started in 2005, believe it or not. I know. It's, it's a long way. I think the one thing maybe that people don't realize is that staffing, staffing project and staffing engagement is totally a black art. And I don't think could be wrong, but I don't think there's any consultancy out there that actually does it particularly well.
+
+Cause you have to think, you have to bring together a team of people that ideally have worked together before they like each other. They have relevant experience to the specific problem. You want to solve the domain, you need to have enough senior people to guide and lead and provide the expertise that you're, you know, selling. To do that you've got a few weeks, maybe a month. And the actual reality is all the people are valuable. The one that are not billing, they are on something we call the bench or the beach. You know, if you're that kind of company and the people on the bench, they're not necessarily the right people for the engagement. But at the same time, you don't have any choice. You've got to give them some jobs. They're really expensive. They have to be billing somewhere. So you get in that situation where you're stuck and actually doing a good job. It's impossible, and it doesn't matter if you have 10,000 or hundred thousand employees, consultants, it's still a hard, really hard problem to solve. Obviously, you know, the client doesn't really have that, that view, but they can get a pretty raw deal.
+
+**Rhyd:** So does that mean as a firm that that specializes in providing experts as consultants, does that mean the company has to spend a lot of time trying to work out who should be working for a specific client, or have you solved that problem having done this since 2005 as you said?.
+
+**Thomas:** No, So I don't think I was gonna say this is a, the kind of complex problem that is not solvable as a whole, I think what you can just do is design your company in such a way that it's more amenable to come up with better solution. They will never solve it totally. So for us, it was about not having a bench or a beach right? Our model is, we have an hybrid model. A third of our staff are employees. Two-thirds are associates (contractors, long term suppliers) that have been working with us for many years that we have selected with great care. But our answer to the problem is to have the smallest bench possible and actually a pool of 3000 people that we can call on when needed for the right project and the right people even there. It still really, really difficult.
+
+**Rhyd:** Is there an event in your life or your career that made you pause for a moment and rethink?
+
+**Thomas:** I was thinking about that. I think the closest to that is I'm in 2005, as I say, you know, working as a consultant in London and I'm a bit stuck in a rut, uh, in my job. So I'm looking at alternatives. I remember even considering going back to France to get a job in a large consultancy. So I think. I was getting a bit desperate, um, to be honest. But then I get this call from someone I worked with previously was the head of engineering at a product company. And he tells me he need some help to transform his department. And I'm like, Oh, great. And I guess that's the push out I needed, you know, instead of helping him as Thomas, why, why, why can't I just help him as a collective? 
+
+And that's really what Equal Experts became and that's when I realized that the old concept was really simmering in my head for many, many years. And it just like coalesced, it went from, "oh, let's get a few contractors to blend together", which is, you know, if you do contracting in the UK it's most a very obvious idea to what Equal Experts is today, but that the whole design of the Equal Experts really happen in a matter of weeks.
+
+And I was reflecting that the actual main design of the company, of the organization hasn't really changed in the last 15 years. It's still still pretty much the same. So it wasn't like a aha moment, but I think it was the accumulation observing consultancy for 10 years. You know, working in France, in the US, in the UK, how they treat the employees, how they treat the customer.
+
+And so I was like OK this is my opinion, to kind of like write a few wrongs, you know, to bring order to the force or something. 
+
+**Rhyd:** You say it it wasn't an 'aha' moment, but the call itself from the head of engineering was almost like the spark that gave you the realization that you could do this?
+
+**Thomas:** Yeah, it gave me the kick in the butt I needed to say, yeah, you have been dreaming this stuff. You know, now it's your chance to do it. And the way I was looking at it, is like, it wasn't just like, for, of course we were very small, but it was my idea was not Oh, that will work for five people or 50 people. It's like, how do you scale this thing, you know, then and keep it, keep it working.
+
+**Rhyd:** So back in 2005 when that call came in, You thought, "Oh, okay, well this is a chance for me to do the thing that I've been thinking about for the last few weeks or months". Did you think back then that in 15, 20 years you'd be working with a thousand plus people around the world, or was it all I'll just do the UK and I'll be happy?
+
+**Thomas:** I wasn't so much interested in the number of people, but I was interested in going beyond the UK. I wanted it to span across geographies, but it could have, you know, stayed a few dozen people that have been fine, but no, I didn't think let's grow it to 1,200 people and stuff like that.
+
+**Rhyd:** And has it taught you anything about yourself having worked for sort of 15 plus years running a company? Are you still, obviously people change over time, but do you still, you look back at yourself 16, 17 years ago and think, Well, I'm still kind of the same person, or has going through this sort of change the way you are as a person?
+
+**Thomas:** I dunno if it changed me, but it taught me a lot of things about myself that I didn't know, that is for sure. For instance, I thought everybody was thinking the same thing as I do which is interesting. I thought that everybody was interested in the same thing as me. And what was important to me was important to everyone else the same way. And I realized that's of course not true. That was one of the big ones for sure. 
+
+**Rhyd:** Thinking like you in terms of how to run a company or how to run a consultancy or thinking just in a general outlook on life?
+
+**Thomas:** No a general belief, like for me, **autonomy is what matters the most**. And I realize that people actually, they, they also need safety and leadership. And I realized that for me it was the most important thing ever was just think for yourself, be your own person. Play nice with others, and that's more than enough. People are different. They all need something different from their organization, from their work. It's great I learned, but if I look at Equal Experts I modelled it exactly on what I thought was the most important. So I got lucky enough that enough of it resonated with enough people for to work.
+
+But with the scale we are at just a few years ago, I even had to write a strategy because apparently people need to know what's going on, which is great. I totally understand, of course. But for me was all, we don't need a strategy solving the design. What's really important is, and I, that's where I realize the design is what makes the company work as in you don't try to have a crystal bull. You just define some principle that reinforce each other in, in, they're all coherent with one another. So that makes a great design and that's what really um, I think I got lucky cuz that's what I done from the first day.
+
+**Rhyd:** And since then has it all been plain sailing/easy? Like have you looked back and think, "Oh, that was great fun, I had no problems". Or did you run into stuff where you thought, "Oh my God, what have I done?"
+
+**Thomas:** It has been very hard sometimes. Yes, every year I add a different company. I think every year the problems space, the dimension of the problem was entirely different. You know, we've grown quite quickly, especially at the beginning, but also we just had different problems working and trying to build a business in the UK as opposed to trying to go international was hugely different dimensions going from 50 people to 500. Every year you had absolutely, completely different sort of problem. So it was the adventure. It's the adventure of a lifetime and I really don't regret it, but I think to do that job properly, that should have been someone else replacing me every year with the experience of the scale and the problems of that. So I had to figure it out, which I don't mind. Um, but I really had to, to figure it out every year.
+
+**Rhyd:** So the company has evolved, then every year it's changing.
+
+**Thomas:** Yeah, it was drastically, as in the heart and the principles stayed the same, but the size of the problem and the solutions to this problem were entirely different. 
+
+**Rhyd:** It's been hard every year because the parameters of how you are operating the company are changed. So you've grown rapidly over the last of decade. Given that your company's a reasonably sort of flat organizational structure, how do you help make sure people are making the right decision by them and by the company?
+
+**Thomas:** Yeah, so it's really important to understand that one of the key things I wanted to do when I was talking about right a few wrongs is to try to create a place where people really treat each other like equal. I mean, that's in the name, that's why I chose it. And what I mean by that is there's a few things that are really important to unpack.
+
+There's only one way to talk to your customer properly, which is I think you have to treat them at as equals, right? And most consultancy, they either are way too subservient or they way too arrogant. That comes from the employees themselves, treating each other as equals and, and being able to be themself and have autonomy and be genuine this whole thing hangs together.
+
+So to really crack the problem where you have low ego people treating each other like equal, treating their customer as equal so that actually you can have some proper relationship building and all that stuff. You need the entire system to really give the individuals the ability to make their own decision.
+
+But then the problem is how do we get scale, right? So the decision making, if you look at it, there's really two model: you're top down, which obviously if we do top down, they'll destroy what I'm trying to do, or consensus driven. If you do consensus driven, well you are in Sweden or something and nothing ever gets done.
+
+So I was looking for something else and we, we came up with this thing called the advice process, which has been created some time ago where it's really interesting, it's the best of both worlds. So people in the company can make decisions without having to ask their boss for a permission as long as they follow this advice process, which essentially is you have to explain why you want to do something. You have to explain how you going to measure it. You have to really give your thought process and then you have to ask everyone around you and the people impacted by your decision, you have to ask them for advice, and then you have to evolve your decision based on this advice and then run with it.
+
+And we've been pushing this for a while now (maybe 6, 7, 8 years). And we have really pushed people to embrace it. So anyone in the company, regardless of your job title, can decide "I'm going to change something about the company that I think makes sense", or "I'm gonna spend money to go and do this thing that I think will add value to our customer eventually", again, without having to referral constantly to the boss.
+
+And it's been really interesting. It's still work in progress as in not enough people are using it. Not enough decisions are going through the advice process yet, but what it has done: it's created a huge amount of transparency. Like I try to use it for any decision I make as well. Every single other person in the company does the same, so what it creates is, people really understand where we come from. Most of the time you make a decision, but you don't spend enough time explaining why you're making that decision, and people don't have the time to tell you why your decision is gonna be not working so well. So here things - of course - it makes things a little slower, but you get this huge benefit of people can mark your own homework, you are quite vulnerable out there. They have this transparency. People understand your intention even though your decision may be wrong, they understand your intentions are right. You can course correct. So the whole thing just change the governance of the company for the better and reinforce this concept of we all have a different job, we all have different roles. We can still treat each other like equal.
+
+**Rhyd:** You started as Equal Experts or EE back in 2005. Before that though, what you mentioned you were a consultant in the US in France, so how'd you get started?
+
+**Thomas:** I studied Biology actually at university. But in my last year I was trying to figure out if I was going to, uh, go into a lab and find new vaccines and stuff. At the time it wasn't as, you know, I guess, relevant as it is today. So I don't have the patience. But I was taking a course in computer science and my teacher just started a very small consultancy, so he asked me, you know, "Do you want to join?"
+
+And given I, uh, I didn't really have any other interview from IBM or Microsoft at the time and said "Sure". And that's where I started in a really small consultancy. I remember that you said, "Okay, listen, Thomas, you're supposed to do a bit of training on this new language called SmallTalk. You got the weekend to learn this, so here you go".
+
+Here's the content. And like, oh, and actually learning how to teach people. That has been hugely formative for me. I also had to go back to my old university and teach them a little bit as well, because I was helping by my boss and my teacher. That also was quite nice. But for the first few years when I was a developer, you know, working very much like Equal Experts works today: small consultancy, working for large corporates and all that.
+
+But the same time I was moonlighting as a teacher and doing the two together. That really gave me a massive boost to my confidence actually. It was just like nothing like it. Everybody was 10 years older than me and that way more experience than I did. But I was explaining to them that very technical thing.
+
+And you know, it was the times where you had those little plastic overheads that you had to put on a projector that were projecting on the... And because I was working in such a small company with 5, 10, 15 people, of really, really bright, you know, younger people usually at the time, that means that was the first thing I,that's the way I want to work. I cannot work in a big corporate. I love working for them, but I can't be working inside them and all the thing I like about work, they just got form then and after that I kept going in the same kind of company in the US and it was the same stories. 
+
+So I got lucky enough. I had all the experience I had were relevant to, what Equal Experts is today, if you see what I mean?
+
+**Rhyd:** Yeah. And do you have any clients that are still asking you to write SmallTalk for them?
+
+**Thomas:** I wish SmallTalk was the most advanced language ever created. Unfortunately very ahead of his time. And when I had to move to Java, that's why I understood. I can't just be a developer any more.
+
+**Rhyd:** When you started Thomas, what do you wish you'd known? What would really have helped you if someone had given you an envelope with a secret in there that could've supercharged your career do you think? 
+
+**Thomas:** I think the best thing that would've happened to me if someone gave me an envelope, I opened it and it was entirely blank. I'm sorry to say that because I think in my case, ignorance is bliss. If I knew all the efforts and how hard and how tricky it is to succeed (you know, for Equal Experts in particular) I'm not sure I would've started. So I think there's something about ignorance and just going and doing it and thinking it's just gonna work, That it's so precious. And to me that was it. Just my ignorance was what kept me going. And, you know, I would never, I would not have it differently because with all the knowledge, I would've been burdened, I think. If you know too much, you don't try. So you stop from trying and then of course it never goes anywhere.
+
+**Rhyd:** So Thomas, what's coming up next for you and Equal Experts?
+
+**Thomas:** Oh, actually we have got some exciting news. We just announced that we're going to sell the company to the employees. We're taking a bit of time. But in 2025, 100% of the company will be owned by the employees.
+
+**Rhyd:** So how is that gonna work then? So you've got three years, how will that work?
+
+**Thomas:** We want to go with a very, very simple model. It's using a trust, very much like a, John Lewis Partnership model. And in that trust we'll make sure we have different stakeholders. We'll have, of course, the employees, but also the long term suppliers, our independent contractors that have been working with us for many years and also customers.
+
+Cause the idea is to try and recreate this haven we are building inside the trust. It's all about enshrining our vision for the future. I mean the main motivation was continuity, is, continuity. We have this ambition to make the company last for 50 years.
+
+So it's really about how do we pass this on to another generation? And we looked at all the governance and all the ownership models, and that's, that's really the only way to, to, to achieve that ambition.
+
+**Rhyd:** So are you the only consultancy doing that at the moment that you're aware of? Or...
+
+**Thomas:** Believe it or not, a lot of companies have been doing this during Covid. I think the amount of employee owned business in the UK has kind of doubled. The big difference I guess is that in IT, There's a lot of M&A that, you know, obviously private equity just gives you a much better return. So a lot of the people go this way but there's still some consultancies have done it, it's just smaller ones, I guess than we are. I think I saw that when we do this we might be in the top 10 of employee-owned business in the UK, believe it or not.
+
+**Rhyd:** And what's the reaction been in internally to that news?
+
+**Thomas:** Well, it's been amazingly positive. At the beginning, people were bit worried Does it mean that Thomas is going to ride into the sunset? When they understood that, no, there's a lot to do still but just they just love the idea of just making the whole haven actually a reality, right? Where it's like we are all in it together. The 'Equal' of Equal Experts now just became a little bit more equal, if you see what I mean.
+
+**Rhyd:** Thomas, if, if anyone wants to get in touch with you, what's the easiest way?
+
+**Thomas:** Uh, LinkedIn. That's really the, the best way.
+
+**Rhyd:** Well, thanks for your time today. That was Thomas Granier. He's the CEO of Equal Experts. Thanks, Thomas.
+
+**Thomas:** Thank you. Thanks Rhyd.
+
+[Back to episode](/podcast/ep-5-thomas-granier-autonomy-matters-the-most.html)

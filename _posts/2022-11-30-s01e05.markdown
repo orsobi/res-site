@@ -1,0 +1,47 @@
+---
+layout: episode
+date: 2022-11-30
+img: ep-5-thomas-granier.jpg
+alt: Thomas Granier
+transcript: /transcripts/ep-5-thomas-granier-autonomy-matters-the-most.html
+episode-id: s01e04
+permalink: /podcast/ep-5-thomas-granier-autonomy-matters-the-most.html
+series-number: 1
+status: preview
+title: Ep5 — Autonomy Matters the Most
+name: Thomas Granier
+role: CEO
+company: Equal Experts
+
+air-date: November 30, 2022
+duration: 24 mins
+
+twitter-id: equalexperts
+linkedin-id: thomasgranier
+site: todo
+
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- people
+- consultancy
+- different
+- customer
+- model
+- trust
+- partnership
+- consultant
+- advice
+
+---
+
+{:.show-notes}
+Rhyd's guest this week is Thomas Granier, CEO at Equal Experts. Thomas and Rhyd discuss the impact of the global pandemic, starting and running a successful consultancy and plans to make Equal Experts an employee-owned trust in 2025.
+
+Links:
+
+* [Thomas on LinkedIn](https://www.linkedin.com/in/thomasgranier/)
+* [Equal Experts](https://www.equalexperts.com)
