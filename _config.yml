@@ -8,7 +8,6 @@ header_pages:
   - about.md
   - contact.md
 social_links:
-  twitter: RTEverythingPod
   instagram: rethinkingworkandlife
 future: true
 date_format: "%B %d, %Y"
