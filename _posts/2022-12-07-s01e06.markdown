@@ -1,0 +1,48 @@
+---
+layout: episode
+date: 2022-12-07
+img: ep-6-phil-veysey.jpg
+alt: Phil Veysey
+transcript: /transcripts/ep-6-phil-veysey-race-the-internet.html
+episode-id: s01e06
+permalink: /podcast/ep-6-phil-veysey-race-the-internet.html
+series-number: 1
+status: preview
+title: Ep6 — Race the Internet
+name: Phil Veysey
+role: Head of Sales, Europe (Books)
+company: Taylor & Francis Group
+
+air-date: December 7, 2022
+duration: 25 mins
+
+twitter-id: philinmadrid
+linkedin-id: philip-veysey-92592729
+site: todo
+
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- people
+- book
+- ebook
+- print
+- different
+- change
+- opportunity
+- academic
+- publish
+- pressure
+- open
+
+---
+
+{:.show-notes}
+Rhyd's guest this week is Phil Veysey, Head of Sales, Europe (Books) at Taylor & Francis Group. Phil and Rhyd discuss common myths about publishing, e-books vs print, whether anyone still sells encyclopedias door to door, and a single moment that changed Phil's life forever. 
+
+Links:
+
+* [Phil on LinkedIn](https://www.linkedin.com/in/philip-veysey-92592729/)
