@@ -7,7 +7,7 @@ transcript: /transcripts/ep-6-phil-veysey-race-the-internet.html
 episode-id: s01e06
 permalink: /podcast/ep-6-phil-veysey-race-the-internet.html
 series-number: 1
-status: preview
+status: published
 title: Ep6 — Race the Internet
 name: Phil Veysey
 role: Head of Sales, Europe (Books)
