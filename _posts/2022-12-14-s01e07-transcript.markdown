@@ -1,0 +1,128 @@
+---
+layout: transcript
+permalink: /transcripts/ep-7-rick-farrell-penguins-lots-of-penguins.html
+title: Ep7 — Penguins, Lots of Penguins
+duration: 19 min
+date: 2022-12-14
+status: preview
+---
+
+**Rhyd:** In today's episode, I'm talking to Rick Farrell, who's the founder and a design partner at Thunk, a firm that transforms businesses through digital product design. Rick, great to have you here, mate. Thanks for coming on and speaking to me.
+
+**Rick:** Thanks for now. Great to be here. Thanks for inviting me.
+
+**Rhyd:** No worries. So Rick, what are you rethinking about the moment?
+
+**Rick:** So well I suppose the same thing that everyone's rethinking really. And, just our approach to new business with this storm that is coming or just about to start, you know, battening down the hatches, trying to survive, keep growing. It sounds like it's gonna be another incredibly tough period for everyone really. And it feels like we've had a sort of a few decades worth of those periods, just in the last couple of years. So, that's definitely top of mind for rethinking how we get through this.
+
+**Rhyd:** And so are you finding that companies are looking to reduce their budgets on working with companies like yourself? Or are they actually thinking they need to stay one step ahead so therefore they need to be a bit more innovative and bit more advanced?
+
+**Rick:** Well, we saw with Covid as well that, although there's a sort of downturn and people tightening belts, there's always opportunities that arise as well. So, hopefully we'll see the same sorts of thing. I mean, obviously in the news we've seen all the tech companies laying off thousands of people and that will be right down to the smaller tech companies that don't really make their headlines. They'll be laying people off as well. But as a sort of design company that provides designers in a sort of agency client kind of scenario we don't really call ourselves an agency. There could be opportunities for us to fill some of the gaps that have been left by redundancies and things like that, because a lot of the time the work still needs to be done and budgets get kind of, placed in different places and things like that. But we'll see really what happens. There are some industries, particularly energy, where they're not seeing that reduction and they're actually seeing like other projects kind of coming up. And so that's kind of an interesting thing that's obviously going on.
+
+**Rhyd:** You're the founder of Thunk. It's a digital product design company. You're specializing in helping companies design world class products and services. But you know, what's a common myth about products and services that listeners might not realize.
+
+**Rick:** Yeah, that's a good question, but I suppose it's not really a myth, but more, I suppose, what people think that means when we describe that, because I can, if I talk to people within our industry product managers and like they understand it.
+
+But if I speak to you know my auntie Marjorie or whoever it might be, she has no idea what that means. And a lot of times people might think "oh, do you make websites?" and "oh, do you make maybe apps?" and "oh, do you do wire framing?" So that's a lot of what we get and a lot of what we do is on the web and web applications and mobile apps, but other kind of technology solutions as well. I mean, essentially we're finding users and customer problems but also business goals. And we're trying to, if you imagine that as a Venn diagram and we're trying to find that sweet spot in the middle where we can solve user problems with Products and services but also meet business goals as well. So that's kind of, what we do. And sometimes it can take the form of a website. Sometimes it's a web app or a mobile app or an Alexa app or even a new piece of hardware that complements something else, IOT or whatever it is. So it's a whole spectrum of anything that really is a digital product.
+
+**Rhyd:** Yeah, I'm not a great designer but I understand, I hope, good design when I see it and I think it is so fundamentally important to the type of work that I do as well. But I still remember when design was almost like an afterthought. We, the company said, "Right, well just get a designer in and tidy it up a bit, make it look nice, and then we'll ship it". And I think those days, hopefully those days are long gone, but maybe not.
+
+**Rick:** Well in some companies they are, and that's one of the things that we try and do as well. We, we we love design and we've been doing it certainly I've been doing it for 20, 25 years and it's always been about solving problems and digital screen design and from way back when I was, at university and everything else and we were always taking things from the fundamental all the way to, an end to end product.
+
+But yeah, still there are some companies that think design is something that you sprinkle on at the end. And it's way more than that. Obviously there's a lot of design led companies out there that get that these days. And yeah, we work with a lot of those and we also try and actually, increase the design maturity of other companies that we work with, so that's what we do. When it comes to design as you've said in the past, it can mean many different things to different people. But now, design is everything about an experience or a product or anything really. And for me, I suppose, and for us it's at the core of how things or anything works, whether that's a piece of software, an iPhone, a paper clip, or photosynthesis right? All those things have - like photosynthesis designed by nature, right? Yeah, the paper clip is probably one of the best products that's been invented.
+
+**Rhyd:** So what event Rick in your life or career made you pause for a moment and perhaps rethink?
+
+**Rick:** Well, I think. It's probably been a few, probably been three events really. The first one would've been going to university. I took a couple of years out and thought I'm gonna earn some money but then saw what a good time my friends were having a uni but it was kind of tough finding something that I wanted to do because I was torn between both design and more graphic design those days and computer programming. And this is sort of 97 - there's about 3 universities in the country that were putting those two schools together and in, into a course.
+
+So that was a big sort of thing for me rethinking what I was doing and finding that. And then the other time was after university when I was working for a couple of years and thinking, Oh gosh, is this all there is now? And keep working until I retire and  rethink what I was doing and thought, Yeah, you know what, I'm gonna get out of here for a bit. And I went travelling for about three years.
+
+**Rhyd:** Where did you go?
+
+**Rick:** Yeah, I went to all seven continents over a few different trips. But I spent a year working in Australia and a year in South America, travelling around and ended up getting a boat to Antarctica for a few days.
+
+**Rhyd:** No...
+
+**Rick:** Yeah. 
+
+**Rhyd:** You're the first person I've ever met who's been Antarctica. Bloody hell.
+
+**Rick:** Yeah, it was pretty amazing. It was yeah - you can get there on boats from the tip of Argentina and it takes a couple of days across the Drake passage and then we had about 5 days there and then two days back again. So yeah, it was pretty amazing journey.
+
+**Rhyd:** What did you see?
+
+**Rick:** Penguins, lots of penguins, ice, icebergs and and all that stuff. But was a fantastic place to be and it was you just felt like you shouldn't be there, and but it was a very special time.
+
+**Rhyd:** Nice. Okay, so university travelling, and then I suppose you mentioned earlier the big one was doing your own design company, 
+
+**Rick:** So that's probably the biggest rethink because I was it was 2017 when I left Google. I'd been at Google for 10 years. Working on all sorts of different projects and products from Google Maps to some social stuff and Android for a few years on System UI, which is really good. I had a few projects at Google IO in 2017. What a fantastic place to work and really lucky to be there and to work on the things that I did. But it got to that point where like I did when I was thinking about what's next when, I made that decision to go travelling. I was a bit like, Well, is this it now? I was gonna stay here until retirement? And I'd always had this, yearning to do something for myself. And you could see if you looked outside of Google in terms of the industry that I'm in and design and everything, there are lots more opportunities coming up and people were understanding that, user experience and digital product design is becoming more and more important. And, it's amazing to see where it's at now. And I never really expected it to be like this, I was just doing it because those are the two things that I really loved, design and computing, and I found a way to bring them together.
+
+But this idea of doing something on my own and starting my own business I'd always been there in the back of my mind. And so I finally took that leap in 2017. Not knowing exactly what it is that I was gonna do and who I was gonna do with. Missed out on quite a lot being in the Google bubble during the the naughties there was and early 2010. There was, all the startup scene that was happening in, in London and Silicon Valley. I wasn't really a part of that within Google. So that's one of the first things I did actually when I left. I just joined a a VC firm as a consultant to all their portfolio companies, and was just like getting deep into all this, these startups that were doing all sorts of weird and wonderful things and then, Just because I needed to invoice for some of that I just incorporated a company and then, and from there yeah, things rolled on ended up working with a very good friend of mine who became a business partner who I'd known from uni. And we'd always talked about doing stuff together. And that was three years ago.
+
+And so we've just rolled on from there really. And we've had a few more people join us in that time. So that's where we're at now. That's how it happened.
+
+**Rhyd:** So, the thing that you set up just as a way to be able to run your business as an individual that's now turned into a company with multiple people involved. You've got an office in London. One thing I was interested to know is like, how did your friends and family react to the idea of you leaving the massive behemoth that is Google and starring out on your own. Were there people nervous, worried...?
+
+**Rick:** Yeah, I think there are people that still are nervous and worried. Every time I speak to my mum: "How's it going?" But I think there's a few people that, you know, close family and everything that were "Oh no, you're set now you've got this job at a great company" and then, you just surf on through to retirement or something. But I'm not that kind of person. And it was just like looking for the next challenge outside of the corporate world. And, having been a designer and worked on products that are used by hundreds of millions of people I learned so much and ticked all those boxes. It was time to, learn something new really. And and actually, learning about business and learning about sales and everything else was a real steep learning curve and still having that learning curve as well. But, I'm enjoying it and it's it's another aspect and another thing that you know to do with your life. So that's kinda where I'm at with it.
+
+**Rhyd:** Just keeping you interested.
+
+**Rick:** Yeah, definitely.
+
+**Rhyd:** And when you started out, did you think, Right, in five years I want an office in London in 10 years I wanna be... or is it you just, rolling with the punches, as they say?
+
+**Rick:** it's a little bit rolling with the punches and following opportunities and conversations and things lead to different things. And so it was never really a five year plan from the beginning. I mean, now things have changed a little bit and we are actually, We do have what we wanna, where we wanna be in, in three years, where we wanna be in five years and all that kind of stuff.
+
+But it never really started like that. It was in the same way look right, the very beginning of my career it was like following the things that you are interested in and you love doing, design and computing and now, Following the things that I'm interested in, Well, working for myself and trying to build something. And also, keep with the design thing and grow design at other companies and everything else. So that's what it's done. And then, fortunately I've managed to bring a few people together and it's now a business. So, with, proper grown up plans and things like that.
+
+**Rhyd:** Yeah. And the thing you said earlier about, difficult or unpredictable times, the thing, I was just thinking about the things that you've seen since you started the company. So obviously you incorporated just after Brexit, and obviously Brexit isn't resolved yet. You've seen Covid cost living crisis, the war in Europe is obviously having an effect on energy prices and obviously people's lives are massively affected. What's the future hold do you think?
+
+**Rick:** Also don't forget the longest recession on record apparently about to happen. So it's a little worrying about things at the moment but we've been in that state for a few years now. So, everything within the last three or four years have been a significant challenge. But I read a comment from a large agency, agency leader recently who said, "The companies that who can get through this next period will rule the world". So I'm using that as motivation because I can see why they're saying it, because, if you can get through tough periods like this, then you know, you should be able to, really prosper when hopefully we get some sort of normality back. So that's what I'm hoping for and that's what we're striving to do.
+
+**Rhyd:** Rick, you mentioned you've been working as a designer for over 25 years now. And you mentioned being at university, but how did you get started? Where did your interest in design and computing come from?
+
+**Rick:** Well, I mean if I go way back it's probably the same as you and a lot of people in our sort of industry. I was seven years old in 1984 and got a Spectrum 48K for Christmas. And actually that same actual machine is up in my office now. Still got it there. I've seen those things in museums, right? 
+
+**Rhyd:** Is that the one with the rubber keys?
+
+**Rick:** That's the one. Yeah. Yeah. So when, yeah, I got that obviously you had a load of games with it that I would play. I would use the command line and make blocks of colour and recreate my own Ceefax or Teletext pages.
+
+**Rhyd:** That's quite geeky
+
+**Rick:** Yeah, it was properly geeky. It would take hours 'cause you'd have to do it line by line. And it was like trying to make happy birthday and the things like that and show the screen to wherever it was there. That was that was obviously where it all started really. But I suppose it was between 93 and 97 when I really married those two passions of computing and design and ended up finding that, that rare kind of course at the time which led me into uni.
+
+**Rhyd:** We had a BBC electron. We didn't have a spectrum when we were growing up.
+
+**Rick:** Right, You were a BBC family.
+
+**Rhyd:** Yeah. I loved that machine.
+
+**Rick:** Yeah, I think, well, we then a few years later we upgraded to Amiga 500 and all that kind of thing. 
+
+**Rhyd:** That's a whole other podcast. Oh, the Amiga 500. I can properly geek out about that. So did you consider yourself almost an engineer/ programmer as well as a designer? Or are you always focus on design?
+
+**Rick:** Yeah, I mean, I did computer programming and I was definitely, really interested in that. I really enjoyed the satisfaction that, programming gives you when you finally, get something to work. And actually what happened when I finished that and I had two years out, I went and worked for a publishing company doing kind graphic design, and I actually missed the programming side. And so I was like, Okay, I'm missing that. I've got this and I need to somehow put these two things together and they don't really go together, but back then, they didn't really go together, but now, so they do go together. And they I suppose, we didn't realize at the time how. How much of an impact both design and computing was gonna have those two things together on everyone's lives, right. I mean, people, everyone's carrying their phone around in their pocket and the fact there's been a lot of design that has gone into those, apps and things that they use on it, but also a lot of programming and a lot of kind of computing and all that sort of stuff. So it is really interesting to see what has happened. I never really thought that, predicted that or whatever. I just, like I say, just following my passions at the time.
+
+**Rhyd:** If you could send yourself a message back in time to 2000, 2001, what would you say?
+
+**Rick:** Wow. Okay. Well, I'd probably send myself a copy of a great sports Almanac
+
+**Rick:** I dunno. Yeah, back around that time I was kind of travelling and also tinkering with all sorts of side projects. And actually some of those side projects now would probably be considered startups or something. But there wasn't really that support or that kind of understanding of how to... well, I didn't have that understanding of how to turn these things into real products or real businesses back then. And I suppose I'd probably go back and tell myself: "just keep going on a few of those ideas and don't worry about paying the rent so much". That actually reminds me of everyone that I was at uni with and we all graduated in 2001, and I can remember a lot of people's final projects and at the time no one, they're all good projects, but no one really took them forward, but they all could have been, massive businesses really if people had just not worried about actually living and paying rent and everything and just follow, following those things. And so, yeah it's interesting how a lot of things like that happen.
+
+**Rhyd:** Yeah. But you're doing it now though. You've got your own thing and you're running with it.
+
+**Rick:** Yeah, that's right. Yeah. I suppose we're helping to hone other people's ideas and actually bring the real important stuff like designing into those things rather than coming up with our own products. Although we do have some ideas that we haven't worked on yet.
+
+**Rhyd:** All right. What's coming up next for you and for Thunk?
+
+**Rick:** Well, just figuring out how to design ourselves a path through the next of 18 months. A lot of us in the business have been friends for decades and we love what we do and we just wanna keep doing great work for great people and companies and products and services. And so, if we can do that and we can survive this next period and grow a little bit, then we'll be very happy.
+
+**Rhyd:** And what's the easiest way for to get in touch with you?
+
+**Rick:** The website is Thunk.co. That's 't', 'h', 'u', 'n', 'k', '.co'. Or you can just connect with me on LinkedIn. It's Rick Farrell - I think there's 1 or 2 Rick Farrell's on there. One of them's a hairdresser, but that's not me :).
+
+**Rhyd:** All right. Thanks for your time today, Rick. Rick's the founder and design partner of Thank. Thanks a lot mate.
+
+**Rick:** Cheers. Thanks. Thanks for having me on.
+
+[Back to episode](/podcast/ep-7-rick-farrell-penguins-lots-of-penguins.html)

@@ -1,0 +1,41 @@
+---
+layout: episode
+date: 2022-12-14
+img: ep-7-rick-farrell.jpg
+alt: Rick Farrell
+transcript: /transcripts/ep-7-rick-farrell-penguins-lots-of-penguins.html
+episode-id: s01e07
+permalink: /podcast/ep-7-rick-farrell-penguins-lots-of-penguins.html
+series-number: 1
+status: preview
+title: Ep7 — Penguins, Lots of Penguins
+name: Rick Farrell
+role: Designer Partner & Founder
+company: Thunk
+
+air-date: December 14, 2022
+duration: 19 mins
+
+twitter-id: rickfarrell
+linkedin-id: rickfarrell
+site: todo
+
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- people
+- book
+- design
+
+---
+
+{:.show-notes}
+Rhyd's guest this week is Rick Farrell, Design Partner & Founder of Thunk. Rick and Rhyd discuss common myths about design, the difficulties of running a start-up and how Rick got started in design and computing. 
+
+Links:
+
+* [Rick on LinkedIn](https://www.linkedin.com/in/rickfarrell/)
+* [Thunk.co](https://thunk.co/)
