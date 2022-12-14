@@ -7,7 +7,7 @@ transcript: /transcripts/ep-7-rick-farrell-penguins-lots-of-penguins.html
 episode-id: s01e07
 permalink: /podcast/ep-7-rick-farrell-penguins-lots-of-penguins.html
 series-number: 1
-status: preview
+status: published
 title: Ep7 — Penguins, Lots of Penguins
 name: Rick Farrell
 role: Designer Partner & Founder
