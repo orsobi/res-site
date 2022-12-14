@@ -4,7 +4,7 @@ permalink: /transcripts/ep-7-rick-farrell-penguins-lots-of-penguins.html
 title: Ep7 — Penguins, Lots of Penguins
 duration: 19 min
 date: 2022-12-14
-status: preview
+status: published
 ---
 
 **Rhyd:** In today's episode, I'm talking to Rick Farrell, who's the founder and a design partner at Thunk, a firm that transforms businesses through digital product design. Rick, great to have you here, mate. Thanks for coming on and speaking to me.
