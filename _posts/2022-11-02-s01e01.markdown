@@ -7,7 +7,7 @@ transcript: /transcripts/ep-1-leda-glyptis-bring-your-whole-self.html
 status: published
 episode-id: s01e01
 permalink: /podcast/ep-1-leda-glyptis-bring-your-whole-self.html
-series-number: 1
+season: 1
 
 title: Ep1 — Bring Your Whole Self
 name: Leda Glyptis

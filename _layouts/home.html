@@ -7,22 +7,22 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-  {%- if posts.size > 0 -%}
-  <div class="album py-5 bg-light">
-    <div class="container">
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        {%- for post in posts -%}
-          {%- if post.layout == "episode" and post.status == 'preview' -%}
-            <div class="col shadow-md">
-              {%- include card-future.html -%}
-            </div>
-          {%- elsif post.layout == "episode" and post.status == 'published' -%}
-            <div class="col shadow-md">
-              {%- include card.html -%}
-            </div>
-        {%- endif -%}
-        {%- endfor -%}
-      </div>
+<h2 class="text-center season-heading py-3">Season 2</h2>
+<div class="album py-5 bg-light">
+  <div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      {% assign p = site.posts | where:"season", 2 %}
+      {%- include list.html -%}
     </div>
-  {%- endif -%}
+  </div>
+</div>
+
+<h2 class="text-center season-heading py-3">Season 1</h2>
+<div class="album py-5 bg-light">
+  <div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      {% assign p = site.posts | where:"season", 1 %}
+      {%- include list.html -%}
+    </div>
+  </div>
 </div>

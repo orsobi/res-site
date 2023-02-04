@@ -1,0 +1,11 @@
+{%- for post in p -%}
+{%- if post.layout == "episode" and post.status == 'preview' -%}
+<div class="col shadow-md">
+  {%- include card-future.html -%}
+</div>
+{%- elsif post.layout == "episode" and post.status == 'published' -%}
+<div class="col shadow-md">
+  {%- include card.html -%}
+</div>
+{%- endif -%}
+{%- endfor -%}

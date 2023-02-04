@@ -1,0 +1,26 @@
+---
+layout: episode
+date: 2023-02-04
+img: ../podcast logo.png
+alt: Rethinking Work & Life
+episode-id: s02e00
+permalink: 
+season: 2
+status: preview
+title: Season 2 Coming Soon
+name: 
+role: Season 2
+company: Rethinking Work & Life
+air-date: Feb 4, 2023
+duration: 0 mins
+site: todo
+
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+
+---
+

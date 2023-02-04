@@ -6,7 +6,7 @@ alt: Thomas Granier
 transcript: /transcripts/ep-5-thomas-granier-autonomy-matters-the-most.html
 episode-id: s01e04
 permalink: /podcast/ep-5-thomas-granier-autonomy-matters-the-most.html
-series-number: 1
+season: 1
 status: published
 title: Ep5 — Autonomy Matters the Most
 name: Thomas Granier

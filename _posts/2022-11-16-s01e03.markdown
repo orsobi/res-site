@@ -6,7 +6,7 @@ alt: Emma Robertson
 transcript: /transcripts/ep-3-emma-robertson-something-we-will-have-to-talk-about.html
 episode-id: s01e03
 permalink: /podcast/ep-3-emma-robertson-something-we-will-have-to-talk-about.html
-series-number: 1
+season: 1
 status: published
 title: Ep3 — Something we'll have to talk about
 name: Emma Robertson

@@ -6,7 +6,7 @@ alt: Nigel Shanahan
 transcript: /transcripts/ep-2-nigel-shanahan-a-dozen-tweaks.html
 episode-id: s01e02
 permalink: /podcast/ep-2-nigel-shanahan-a-dozen-tweaks.html
-series-number: 1
+season: 1
 status: published
 title: Ep2 — A Dozen Tweaks 
 name: Nigel Shanahan
