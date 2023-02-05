@@ -5,6 +5,7 @@ title: Ep2 — A Dozen Tweaks
 duration: 20 min
 date: 2022-11-09
 status: published
+season: 1
 ---
 
 **Rhyd:** In today's episode, I'm talking to Nigel Shanahan. He's the founder of 2 companies: 1 Mill Street, a flexible co-working space in the centre of Leamington Spa and Make Good Grow, a social enterprise that helps connect businesses and good causes. Nigel, thanks for joining me today.

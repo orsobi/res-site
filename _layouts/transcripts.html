@@ -7,12 +7,13 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-  {%- if posts.size > 0 -%}
+<h2 class="text-center season-heading py-3">Season 2</h2>
   <div class="py-5 bg-light">
     <div class="container">
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <ul>
-        {%- for post in posts -%}
+        {% assign p = site.posts | where:"season", 2 %}
+        {%- for post in p -%}
           {%- if post.layout == "transcript" and post.status == 'published' -%}
             <li class="py-1">
               <a href="{{ post.permalink }}">{{ post.title }}</a>
@@ -22,5 +23,22 @@ layout: default
         </ul>
       </div>
     </div>
-  {%- endif -%}
+</div>
+
+<h2 class="text-center season-heading py-3">Season 1</h2>
+<div class="py-5 bg-light">
+  <div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <ul>
+        {% assign p = site.posts | where:"season", 1 %}
+        {%- for post in p -%}
+        {%- if post.layout == "transcript" and post.status == 'published' -%}
+        <li class="py-1">
+          <a href="{{ post.permalink }}">{{ post.title }}</a>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
 </div>

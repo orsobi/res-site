@@ -5,6 +5,7 @@ title: Ep6 — Race the Internet
 duration: 25 min
 date: 2022-11-30
 status: published
+season: 1
 ---
 
 **Rhyd:** In today's episode, I'm talking to Phil Veysey. He's Head of Sales for Europe for the Taylor &amp; Francis Group based in Madrid. Phil, thanks for coming on the show today, mate.

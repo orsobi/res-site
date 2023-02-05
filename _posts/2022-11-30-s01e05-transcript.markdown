@@ -5,6 +5,7 @@ title: Ep5 — Autonomy Matters the Most
 duration: 24 min
 date: 2022-11-30
 status: published
+season: 1
 ---
 
 **Rhyd:** In today's episode, I'm talking to Thomas Granier. He's the CEO at Equal Experts a Global Software Consultancy, headquartered in London. Hello, Thomas. Thanks for joining me today.

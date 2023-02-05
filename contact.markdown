@@ -8,6 +8,5 @@ img: podcast logo.png
 ## Questions?
 
 {:.show-notes}
-You can find the show on  
-[Instagram](https://www.instagram.com/rethinkingworkandlife/). Follow us there and get in touch if you have a 
+You can find the show on [Instagram](https://www.instagram.com/rethinkingworkandlife/). Follow us there and get in touch if you have a 
 question or a suggested guest.  

@@ -5,6 +5,7 @@ title: Ep3 — Something we'll have to talk about
 duration: 20 min
 date: 2022-11-16
 status: published
+season: 1
 ---
 
 **Rhyd:** In today's episode, I'm talking to Emma Robinson, she's the CEO at Transform — a technology and data consultancy based in London and Manchester. Emma, great to have you with us. Thank you. 
