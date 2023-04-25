@@ -1,0 +1,42 @@
+---
+layout: episode
+date: 2023-04-26
+img: s02e01-phil-parker.jpg
+alt: Phil Parker
+transcript: /transcripts/s02e01-phil-parker-sent-to-canada-with-a-suitcase-full-of-money.html
+episode-id: s02e01
+permalink: /podcast/s02e01-phil-parker-sent-to-canada-with-a-suitcase-full-of-money.html
+season: 2
+status: preview
+title: S2E1 — Sent to Canada with a Suitcase Full of Money
+name: Phil Parker
+role: Head of Deliver
+company: Equal Experts
+air-date: Apr 26, 2023
+duration: 24 mins
+twitter-id: parker0phil
+linkedin-id: parkerphil
+site: todo
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- people
+- design
+- change
+- life
+- innovation
+- product
+
+---
+
+{:.show-notes}
+Rhyd's guest this week is Phil Parker, Head of Deliver at Equal Experts. Phil and Rhyd discuss motivation, innovation, how Phil got started in his career and dealing with difficult moments in life.
+
+Links:
+
+* [Phil on Twitter](https://twitter.com/parker0phil)
+* [Phil on LinkedIn](https://www.linkedin.com/in/parkerphil/)
+* [Equal Experts](https://equalexperts.com/)

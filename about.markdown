@@ -10,7 +10,7 @@ alt: Rhyd Lewis
 
 {:.show-notes}
 **Rethinking Work & Life with Rhyd Lewis** is a podcast that aims to uncover the critical and defining moments in life that
-make people pause, reflect and re-evaluate. Each week, [Rhyd Lewis](https://rhydlewis.net) interviews a guest to
+make people pause, reflect and re-evaluate. In each episode, [Rhyd Lewis](https://rhydlewis.net) interviews a guest to
 understand more about their life, their career and the moments that made them rethink their work & life.
 
 ## The Host
