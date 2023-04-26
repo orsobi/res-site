@@ -7,7 +7,7 @@ transcript: /transcripts/s02e01-phil-parker-sent-to-canada-with-a-suitcase-full-
 episode-id: s02e01
 permalink: /podcast/s02e01-phil-parker-sent-to-canada-with-a-suitcase-full-of-money.html
 season: 2
-status: preview
+status: published
 title: S2E1 — Sent to Canada with a Suitcase Full of Money
 name: Phil Parker
 role: Head of Deliver
