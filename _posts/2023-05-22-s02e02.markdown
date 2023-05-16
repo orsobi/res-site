@@ -1,0 +1,44 @@
+---
+layout: episode
+date: 2023-05-22
+img: s02e02-karl-scotland.jpg
+alt: Karl Scotland
+transcript: /transcripts/s02e02-karl-scotland-learning-to-learn.html
+episode-id: s02e02
+permalink: /podcast/s02e02-karl-scotland-learning-to-learn.html
+season: 2
+status: preview
+title: S2E2 — Learning to Learn
+name: Karl Scotland
+role: Agile Transformation Practice Manager
+company: TEKSystems
+air-date: May 22, 2023
+duration: 19 mins
+twitter-id: kjscotland
+linkedin-id: karlscotland
+site: todo
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- people
+- talk
+- conference
+- agile
+- speaking
+- technology
+- transformation
+
+---
+
+{:.show-notes}
+Karl Scotland joins Rhyd in this episode. Karl is the Agile Transformation Practice Manager at TEKSystems. Karl and Rhyd discuss working together at the BBC, eXtreme Programming (and RUP!), how Karl got started in his career and life as speaker on the conference circuit.
+
+Links:
+
+* [Karl's Blog](https://availagility.co.uk)
+* [Karl on Mastodon](https://home.social/@kjscotland@fosstodon.org)
+* [Karl on LinkedIn](https://www.linkedin.com/in/kjscotland)
+* [Karl on Twitter](http://twitter.com/kjscotland)
