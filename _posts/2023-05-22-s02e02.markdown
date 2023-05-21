@@ -34,7 +34,7 @@ keywords:
 ---
 
 {:.show-notes}
-Karl Scotland joins Rhyd in this episode. Karl is the Agile Transformation Practice Manager at TEKSystems. Karl and Rhyd discuss working together at the BBC, eXtreme Programming (and RUP!), how Karl got started in his career and life as speaker on the conference circuit.
+Karl Scotland joins Rhyd in this episode. Karl is the Agile Transformation Practice Manager at TEKSystems. Karl and Rhyd discuss working together at the BBC, eXtreme Programming (and RUP!), how Karl got started in his career and life as a speaker on the conference circuit.
 
 Links:
 
