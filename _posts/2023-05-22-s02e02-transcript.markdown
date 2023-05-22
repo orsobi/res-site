@@ -4,7 +4,7 @@ permalink: /transcripts/s02e02-karl-scotland-learning-to-learn.html
 title: S2E2 — Learning to Learn
 duration: 19 min
 date: 2023-05-22
-status: preview
+status: published
 season: 2
 ---
 
