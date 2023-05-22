@@ -7,7 +7,7 @@ transcript: /transcripts/s02e02-karl-scotland-learning-to-learn.html
 episode-id: s02e02
 permalink: /podcast/s02e02-karl-scotland-learning-to-learn.html
 season: 2
-status: preview
+status: published
 title: S2E2 — Learning to Learn
 name: Karl Scotland
 role: Agile Transformation Practice Manager
