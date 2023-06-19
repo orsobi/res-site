@@ -1,0 +1,46 @@
+---
+layout: episode
+date: 2023-06-21
+img: s02e03-jim-benson.jpg
+alt: Jim Benson
+transcript: /transcripts/s02e03-jim-benson-get-over-your-own-bad-self.html
+episode-id: s02e03
+permalink: /podcast/s02e03-jim-benson-get-over-your-own-bad-self.html
+season: 2
+status: preview
+title: S2E3 — Get Over Your Own Bad Self
+name: Jim Benson
+role: CEO & Author
+company: Modus Cooperandi
+air-date: June 21, 2023
+duration: 33 mins
+twitter-id: ourfounder
+linkedin-id: jimbenson
+site: todo
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- people
+- agile
+- collaboration
+- aids
+- construction
+- technology
+- transformation
+
+---
+
+{:.show-notes}
+Author and CEO Jim Benson joins Rhyd in this episode of the show. Jim and Rhyd discuss The Collaboration Equation (Jim's latest book), how running a charitable organisation helped Jim understand how to help people come together to collaborate, punk rock and how no industry is really that unique when it comes to problem solving. We don't talk about Scrum and Kanban!
+
+Links:
+
+* [Jim's latest book 'The Collaboration Equation'](https://www.collaboration-equation.com)
+* [Modus Cooperandi](https://moduscooperandi.com/)
+* [Jim's album on Spotify](https://open.spotify.com/artist/0dvEcl1MgVcN5BEofoKdPQ?si=BrSqZQz0QHeLKO_VOXHLZg)
+* [AIDS Memorial Quilt](https://en.wikipedia.org/wiki/NAMES_Project_AIDS_Memorial_Quilt)
+* [Jim on LinkedIn](https://www.linkedin.com/in/jimbenson/)
+* [Jim on Twitter](https://twitter.com/ourfounder)
