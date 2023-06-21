@@ -7,7 +7,7 @@ transcript: /transcripts/s02e03-jim-benson-get-over-your-own-bad-self.html
 episode-id: s02e03
 permalink: /podcast/s02e03-jim-benson-get-over-your-own-bad-self.html
 season: 2
-status: preview
+status: published
 title: S2E3 — Get Over Your Own Bad Self
 name: Jim Benson
 role: CEO & Author
@@ -34,7 +34,7 @@ keywords:
 ---
 
 {:.show-notes}
-Author and CEO Jim Benson joins Rhyd in this episode of the show. Jim and Rhyd discuss The Collaboration Equation (Jim's latest book), how running a charitable organisation helped Jim understand how to help people come together to collaborate, punk rock and how no industry is really that unique when it comes to problem solving. We don't talk about Scrum and Kanban!
+Author and CEO Jim Benson joins Rhyd in this episode of the show. Jim and Rhyd discuss The Collaboration Equation (Jim's latest book), how running a charitable organisation helped Jim understand how to help people come together to collaborate and how no industry is really that unique when it comes to problem solving.
 
 Links:
 

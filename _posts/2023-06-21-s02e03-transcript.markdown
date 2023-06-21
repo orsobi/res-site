@@ -4,7 +4,7 @@ permalink: /transcripts/s02e03-jim-benson-get-over-your-own-bad-self.html
 title: S2E3 — Get Over Your Own Bad Self
 duration: 19 min
 date: 2023-05-22
-status: preview
+status: published
 season: 2
 ---
 
