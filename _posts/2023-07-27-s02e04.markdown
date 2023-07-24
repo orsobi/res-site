@@ -1,0 +1,44 @@
+---
+layout: episode
+date: 2023-07-27
+img: s02e04-debbie-madden.jpg
+alt: Debbie Madden
+transcript: /transcripts/s02e04-debbie-madden-a-weird-and-wonderful-gift.html
+episode-id: s02e04
+permalink: /podcast/s02e04-debbie-madden-a-weird-and-wonderful-gift.html
+season: 2
+status: preview
+title: S2E4 — A Weird & Wonderful Gift
+name: Debbie Madden
+role: Founder & Chairwoman
+company: Stride
+air-date: July 27, 2023
+duration: 25 mins
+twitter-id: debbiemadden200
+linkedin-id: debbiemadden1
+site: todo
+embed-link: 6371f95b358a7000124520a0
+
+keywords:
+- podcast
+- interview
+- business
+- entrepreneurship
+- entrepreneur
+- agile
+- cancer
+- technology
+- transformation
+
+---
+
+{:.show-notes}
+Founder & Chairwoman Debbie Madden joins Rhyd from New York City in this episode. Debbie and Rhyd discuss running a start up, braving the Atlantic for a triathlon and a moment in 2015 that made Debbie have to rethink her life and her new business.
+
+Links:
+
+* [Stride](https://www.stride.build)
+* [Debbie on LinkedIn](https://www.linkedin.com/in/debbiemadden1/)
+* [Debbie's site](https://www.debbiemadden.com)
+* [Debbie on Twitter](https://twitter.com/debbiemadden200)
+* [Debbie's book - Hire Women: An Agile Framework For Hiring & Retaining Women In Technology ](https://www.debbiemadden.com/book)
