@@ -7,7 +7,7 @@ transcript: /transcripts/s02e04-debbie-madden-a-weird-and-wonderful-gift.html
 episode-id: s02e04
 permalink: /podcast/s02e04-debbie-madden-a-weird-and-wonderful-gift.html
 season: 2
-status: preview
+status: published
 title: S2E4 — A Weird & Wonderful Gift
 name: Debbie Madden
 role: Founder & Chairwoman

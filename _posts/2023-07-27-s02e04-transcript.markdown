@@ -4,7 +4,7 @@ permalink: /transcripts/s02e04-debbie-madden-a-weird-and-wonderful-gift.html
 title: S2E4 — A Weird & Wonderful Gift
 duration: 25 min
 date: 2023-07-26
-status: preview
+status: published
 season: 2
 ---
 **Rhyd:** In today's episode, I'm talking to Debbie Madden. Debbie's the founder and chairwoman of Stride in based New York City. Debbie, thanks so much for joining me today.
